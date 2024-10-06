@@ -15,10 +15,8 @@
             overflow: scroll;
         }
         .day-item {
-            flex: 0 0 300px;
-            border: 1px silver solid;
+            flex: 0 0 400px;
             margin: 5px;
-            padding: 5px;
         }
     </style>
 </head>
@@ -68,9 +66,14 @@
                     if (isLimit(keyword, index)) {
                         return '';
                     }
-                    return ` <div>${keyword.keyword} : ${keyword.count}</div>`
+                    return `
+                        <li class="list-group-item d-flex justify-content-between align-items-start">
+                            <div>${keyword.keyword}</div>
+                            <span class="badge bg-primary rounded-pill">${keyword.count}</span>
+                        </li>
+                        `;
                 });
-                container.append(`<div class="day-item"><h3>${day}</h3>${html.join('')}</div>`)
+                container.append(`<div class="day-item"><h3>${day}</h3><ul class="list-group">${html.join('')}</ul></div>`)
             }
 
             currentDate.add(1, 'days');

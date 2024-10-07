@@ -41,7 +41,10 @@
                 if (!response.ok) {
                     throw new Error(`File [${day}] was not loaded: ${ response.statusText}`);
                 }
-                return response.json();
+                return {
+                    data: response.json(),
+                    link: dataForDayUrl
+                };
             })
             .catch((error) => {
                 console.error(error);
@@ -62,7 +65,7 @@
             const day = currentDate.format('YYYY-MM-DD');
             const dayList = await loadDay(day);
             if (dayList) {
-                const html = dayList.keywords.map((keyword, index) => {
+                const html = dayList.data.keywords.map((keyword, index) => {
                     if (isLimit(keyword, index)) {
                         return '';
                     }
@@ -73,7 +76,15 @@
                         </li>
                         `;
                 });
-                container.append(`<div class="day-item"><h3>${day}</h3><ul class="list-group">${html.join('')}</ul></div>`)
+                container.append(`
+                    <div class="day-item">
+                        <h3>
+                            ${day}
+                            <a class="text-muted" href="${dayList.link}" target="_blank">open file</a>
+                        </h3>
+                        <ul class="list-group">${html.join('')}</ul>
+                    </div>
+                `);
             }
 
             currentDate.add(1, 'days');

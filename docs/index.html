@@ -23,6 +23,33 @@
 <body>
 <h1>News Keywords</h1>
 <div class="content">
+    <div class="container">
+        <div class="row align-items-start">
+            <div class="col-3">
+                <div class="row g-3 align-items-start">
+                    <div class="col-auto">
+                        <label for="date-start" class="form-label">From</label>
+                    </div>
+                    <div class="col-auto">
+                        <input type="date" class="form-control" id="date-start" aria-describedby="startDate">
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="row g-3 align-items-start">
+                    <div class="col-auto">
+                        <label for="date-end" class="form-label">From</label>
+                    </div>
+                    <div class="col-auto">
+                        <input type="date" class="form-control" id="date-end" aria-describedby="endDate">
+                    </div>
+                </div>
+            </div>
+            <div class="col-2">
+                <button type="button" class="btn btn-primary" id="apply-filter">Show</button>
+            </div>
+        </div>
+    </div>
     <div class="loading">Loading...</div>
     <div class="days-container">
     </div>
@@ -58,10 +85,38 @@
         return keyword.count < MIN_COUNT || index > LIMIT_COUNT;
     }
 
+    $(() => {
+        const currentState = new URLSearchParams(window.location.search);
+        if (currentState.has('from')) {
+            $('#date-start').val(currentState.get('from'));
+        }
+        if (currentState.has('to')) {
+            $('#date-end').val(currentState.get('to'));
+        }
+
+        $('#apply-filter').click(() => {
+            const start = $('#date-start').val();
+            const end = $('#date-end').val();
+            if (!start && !end) {
+                return;
+            }
+
+            const search = new URLSearchParams();
+            if (start) {
+                search.set('from', start);
+            }
+            if (end) {
+                search.set('to', end);
+            }
+
+            window.location.href = window.location.pathname + '?' + search.toString();
+        });
+    });
+
     $(async() => {
         const searchParams = new URLSearchParams(window.location.search);
-        const currentDate = searchParams.has('from') ? moment(searchParams.get('from')) : moment().startOf('day').add(-15, 'days');
         const lastDate = searchParams.has('to') ? moment(searchParams.get('to')) : moment().startOf('day');
+        const currentDate = searchParams.has('from') ? moment(searchParams.get('from')) : moment(lastDate).startOf('day').add(-15, 'days');
 
         const container = $('.days-container');
         while (currentDate.isBefore(lastDate)) {
@@ -95,7 +150,7 @@
 
             currentDate.add(1, 'days');
         }
-        $('.loading').css('visibility', 'hidden')
+        $('.loading').css('visibility', 'hidden');
     });
 </script>
 </body>

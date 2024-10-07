@@ -38,7 +38,7 @@
         },
         {
             "count": 4,
-            "keyword": "приказ"
+            "keyword": "безопасность"
         },
         {
             "count": 4,
@@ -46,7 +46,7 @@
         },
         {
             "count": 4,
-            "keyword": "безопасность"
+            "keyword": "приказ"
         },
         {
             "count": 4,
@@ -66,7 +66,7 @@
         },
         {
             "count": 3,
-            "keyword": "запрет"
+            "keyword": "рф"
         },
         {
             "count": 3,
@@ -74,7 +74,7 @@
         },
         {
             "count": 3,
-            "keyword": "рф"
+            "keyword": "запрет"
         },
         {
             "count": 3,
@@ -83,6 +83,14 @@
         {
             "count": 3,
             "keyword": "пожар"
+        },
+        {
+            "count": 3,
+            "keyword": "сообщение"
+        },
+        {
+            "count": 3,
+            "keyword": "подольск"
         },
         {
             "count": 3,
@@ -98,18 +106,6 @@
         },
         {
             "count": 3,
-            "keyword": "сообщение"
-        },
-        {
-            "count": 3,
-            "keyword": "подольск"
-        },
-        {
-            "count": 3,
-            "keyword": "уничтожение"
-        },
-        {
-            "count": 3,
             "keyword": "сша"
         },
         {
@@ -117,32 +113,8 @@
             "keyword": "дети"
         },
         {
-            "count": 2,
-            "keyword": "противник"
-        },
-        {
-            "count": 2,
-            "keyword": "новые правила"
-        },
-        {
-            "count": 2,
-            "keyword": "уголовное дело"
-        },
-        {
-            "count": 2,
-            "keyword": "великобритания"
-        },
-        {
-            "count": 2,
-            "keyword": "atacms"
-        },
-        {
-            "count": 2,
-            "keyword": "сергей собянин"
-        },
-        {
-            "count": 2,
-            "keyword": "липецкий"
+            "count": 3,
+            "keyword": "уничтожение"
         },
         {
             "count": 2,
@@ -150,23 +122,15 @@
         },
         {
             "count": 2,
-            "keyword": "дальнобойное оружие"
+            "keyword": "рейсы"
         },
         {
             "count": 2,
-            "keyword": "освобождение"
+            "keyword": "противник"
         },
         {
             "count": 2,
-            "keyword": "становлянский"
-        },
-        {
-            "count": 2,
-            "keyword": "юрцово"
-        },
-        {
-            "count": 2,
-            "keyword": "внуково"
+            "keyword": "сергей собянин"
         },
         {
             "count": 2,
@@ -174,11 +138,27 @@
         },
         {
             "count": 2,
-            "keyword": "срок"
+            "keyword": "новые правила"
         },
         {
             "count": 2,
-            "keyword": "рейсы"
+            "keyword": "освобождение"
+        },
+        {
+            "count": 2,
+            "keyword": "липецкий"
+        },
+        {
+            "count": 2,
+            "keyword": "внуково"
+        },
+        {
+            "count": 2,
+            "keyword": "юрцово"
+        },
+        {
+            "count": 2,
+            "keyword": "великобритания"
         },
         {
             "count": 2,
@@ -186,67 +166,19 @@
         },
         {
             "count": 2,
-            "keyword": "сила"
+            "keyword": "atacms"
         },
         {
             "count": 2,
-            "keyword": "специалисты"
+            "keyword": "срок"
         },
         {
             "count": 2,
-            "keyword": "трудовой кодекс"
+            "keyword": "уголовное дело"
         },
         {
             "count": 2,
-            "keyword": "готовность"
-        },
-        {
-            "count": 2,
-            "keyword": "киев"
-        },
-        {
-            "count": 2,
-            "keyword": "жертв"
-        },
-        {
-            "count": 2,
-            "keyword": "спасатели"
-        },
-        {
-            "count": 2,
-            "keyword": "штраф"
-        },
-        {
-            "count": 2,
-            "keyword": "удары"
-        },
-        {
-            "count": 2,
-            "keyword": "связь"
-        },
-        {
-            "count": 2,
-            "keyword": "изменения"
-        },
-        {
-            "count": 2,
-            "keyword": "всу"
-        },
-        {
-            "count": 2,
-            "keyword": "франция"
-        },
-        {
-            "count": 2,
-            "keyword": "министерство здравоохранения"
-        },
-        {
-            "count": 2,
-            "keyword": "подавления"
-        },
-        {
-            "count": 2,
-            "keyword": "украинский"
+            "keyword": "дальнобойное оружие"
         },
         {
             "count": 2,
@@ -254,15 +186,23 @@
         },
         {
             "count": 2,
-            "keyword": "первая помощь"
+            "keyword": "нейтрализовали"
         },
         {
             "count": 2,
-            "keyword": "storm shadows"
+            "keyword": "запуск"
         },
         {
             "count": 2,
-            "keyword": "ограничения"
+            "keyword": "александр богомаз"
+        },
+        {
+            "count": 2,
+            "keyword": "экстренные службы"
+        },
+        {
+            "count": 2,
+            "keyword": "беспилотник"
         },
         {
             "count": 2,
@@ -270,11 +210,7 @@
         },
         {
             "count": 2,
-            "keyword": "обнаружения"
-        },
-        {
-            "count": 2,
-            "keyword": "здоровье"
+            "keyword": "украинский"
         },
         {
             "count": 2,
@@ -290,47 +226,11 @@
         },
         {
             "count": 2,
-            "keyword": "авиация"
+            "keyword": "всу"
         },
         {
             "count": 2,
-            "keyword": "зарплата"
-        },
-        {
-            "count": 2,
-            "keyword": "разрушений"
-        },
-        {
-            "count": 2,
-            "keyword": "переводы"
-        },
-        {
-            "count": 2,
-            "keyword": "пострадавших"
-        },
-        {
-            "count": 2,
-            "keyword": "экспертиза"
-        },
-        {
-            "count": 2,
-            "keyword": "мэр"
-        },
-        {
-            "count": 2,
-            "keyword": "германия"
-        },
-        {
-            "count": 2,
-            "keyword": "район"
-        },
-        {
-            "count": 2,
-            "keyword": "йенс столтенберг"
-        },
-        {
-            "count": 2,
-            "keyword": "разрешение"
+            "keyword": "подавления"
         },
         {
             "count": 2,
@@ -338,15 +238,51 @@
         },
         {
             "count": 2,
-            "keyword": "игорь артамонов"
+            "keyword": "связь"
         },
         {
             "count": 2,
-            "keyword": "жертвы"
+            "keyword": "здоровье"
         },
         {
             "count": 2,
-            "keyword": "центробанк"
+            "keyword": "первая помощь"
+        },
+        {
+            "count": 2,
+            "keyword": "обнаружения"
+        },
+        {
+            "count": 2,
+            "keyword": "франция"
+        },
+        {
+            "count": 2,
+            "keyword": "министерство здравоохранения"
+        },
+        {
+            "count": 2,
+            "keyword": "storm shadows"
+        },
+        {
+            "count": 2,
+            "keyword": "изменения"
+        },
+        {
+            "count": 2,
+            "keyword": "ограничения"
+        },
+        {
+            "count": 2,
+            "keyword": "удары"
+        },
+        {
+            "count": 2,
+            "keyword": "разрушений"
+        },
+        {
+            "count": 2,
+            "keyword": "экспертиза"
         },
         {
             "count": 2,
@@ -354,443 +290,563 @@
         },
         {
             "count": 2,
+            "keyword": "разрешение"
+        },
+        {
+            "count": 2,
             "keyword": "пентагон"
         },
         {
             "count": 2,
-            "keyword": "александр богомаз"
+            "keyword": "переводы"
         },
         {
             "count": 2,
-            "keyword": "нейтрализовали"
+            "keyword": "район"
         },
         {
             "count": 2,
-            "keyword": "экстренные службы"
+            "keyword": "центробанк"
         },
         {
             "count": 2,
-            "keyword": "запуск"
+            "keyword": "жертвы"
         },
         {
             "count": 2,
-            "keyword": "беспилотник"
+            "keyword": "пострадавших"
         },
         {
+            "count": 2,
+            "keyword": "зарплата"
+        },
+        {
+            "count": 2,
+            "keyword": "германия"
+        },
+        {
+            "count": 2,
+            "keyword": "игорь артамонов"
+        },
+        {
+            "count": 2,
+            "keyword": "авиация"
+        },
+        {
+            "count": 2,
+            "keyword": "становлянский"
+        },
+        {
+            "count": 2,
+            "keyword": "мэр"
+        },
+        {
+            "count": 2,
+            "keyword": "йенс столтенберг"
+        },
+        {
+            "count": 2,
+            "keyword": "киев"
+        },
+        {
+            "count": 2,
+            "keyword": "трудовой кодекс"
+        },
+        {
+            "count": 2,
+            "keyword": "спасатели"
+        },
+        {
+            "count": 2,
+            "keyword": "штраф"
+        },
+        {
+            "count": 2,
+            "keyword": "жертв"
+        },
+        {
+            "count": 2,
+            "keyword": "сила"
+        },
+        {
+            "count": 2,
+            "keyword": "специалисты"
+        },
+        {
+            "count": 2,
+            "keyword": "готовность"
+        },
+        {
+            "count": 1,
+            "keyword": "уголовно-исполнительная система"
+        },
+        {
+            "count": 1,
+            "keyword": "2023 год"
+        },
+        {
+            "count": 1,
+            "keyword": "передача"
+        },
+        {
+            "count": 1,
+            "keyword": "выпуск"
+        },
+        {
+            "count": 1,
+            "keyword": "территориальные претензии"
+        },
+        {
+            "count": 1,
+            "keyword": "оперативные службы"
+        },
+        {
+            "count": 1,
+            "keyword": "кремлевская стена"
+        },
+        {
+            "count": 1,
+            "keyword": "видеофиксация"
+        },
+        {
+            "count": 1,
+            "keyword": "оээ"
+        },
+        {
+            "count": 1,
+            "keyword": "местные власти"
+        },
+        {
+            "count": 1,
+            "keyword": "потребкредиты"
+        },
+        {
+            "count": 1,
+            "keyword": "новые требования"
+        },
+        {
+            "count": 1,
+            "keyword": "рсзо vampire"
+        },
+        {
+            "count": 1,
+            "keyword": "органы"
+        },
+        {
             "count": 1,
-            "keyword": "укладки"
+            "keyword": "проценты"
         },
         {
             "count": 1,
-            "keyword": "общественные эксперты"
+            "keyword": "конституционный суд"
         },
         {
             "count": 1,
-            "keyword": "1 марта 2025 года"
+            "keyword": "еис"
         },
         {
             "count": 1,
-            "keyword": "кодекс"
+            "keyword": "ганчев"
         },
         {
             "count": 1,
-            "keyword": "отчеты"
+            "keyword": "нарушения"
         },
         {
             "count": 1,
-            "keyword": "сервис"
+            "keyword": "образовательный"
         },
         {
             "count": 1,
-            "keyword": "новости"
+            "keyword": "инкассация"
         },
         {
             "count": 1,
-            "keyword": "25%"
+            "keyword": "следствие"
         },
         {
             "count": 1,
-            "keyword": "ваз-2107"
+            "keyword": "ценные бумаги"
         },
         {
             "count": 1,
-            "keyword": "стоимость"
+            "keyword": "автоэксперт"
         },
         {
             "count": 1,
-            "keyword": "техника"
+            "keyword": "последствия"
         },
         {
             "count": 1,
-            "keyword": "биоресурсы"
+            "keyword": "иностранные банки"
         },
         {
             "count": 1,
-            "keyword": "инициирование"
+            "keyword": "многоквартирные дома"
         },
         {
             "count": 1,
-            "keyword": "простота"
+            "keyword": "нефть"
         },
         {
             "count": 1,
-            "keyword": "волгоград"
+            "keyword": "высоком аттракционе"
         },
         {
             "count": 1,
-            "keyword": "муниципальный округ"
+            "keyword": "банки"
         },
         {
             "count": 1,
-            "keyword": "коммерческие объекты"
+            "keyword": "больница"
         },
         {
             "count": 1,
-            "keyword": "задержка"
+            "keyword": "тактический кризис"
         },
         {
             "count": 1,
-            "keyword": "белый дом"
+            "keyword": "ликвидация"
         },
         {
             "count": 1,
-            "keyword": "госавтоинспекция"
+            "keyword": "ликвидировали"
         },
         {
             "count": 1,
-            "keyword": "округа"
+            "keyword": "i группа"
         },
         {
             "count": 1,
-            "keyword": "30 человек"
+            "keyword": "продолжают"
         },
         {
             "count": 1,
-            "keyword": "необеспеченные"
+            "keyword": "электронная путевка"
         },
         {
             "count": 1,
-            "keyword": "специальная военная операция"
+            "keyword": "владимир путин"
         },
         {
             "count": 1,
-            "keyword": "белоусов"
+            "keyword": "отрицательный баланс"
         },
         {
             "count": 1,
-            "keyword": "параметры"
+            "keyword": "полиция"
         },
         {
             "count": 1,
-            "keyword": "бесплатно"
+            "keyword": "генсек нато"
         },
         {
             "count": 1,
-            "keyword": "штрафы"
+            "keyword": "девочки"
         },
         {
             "count": 1,
-            "keyword": "автоматический контроль"
+            "keyword": "аптечки"
         },
         {
             "count": 1,
-            "keyword": "воздушные цели"
+            "keyword": "годовых"
         },
         {
             "count": 1,
-            "keyword": "кабмин"
+            "keyword": "госпрограммы"
         },
         {
             "count": 1,
-            "keyword": "реликт"
+            "keyword": "масштабирование"
         },
         {
             "count": 1,
-            "keyword": "вступил в силу"
+            "keyword": "когалым"
         },
         {
             "count": 1,
-            "keyword": "липецкая область"
+            "keyword": "уфа"
         },
         {
             "count": 1,
-            "keyword": "комитет госдумы"
+            "keyword": "майский"
         },
         {
             "count": 1,
-            "keyword": "япония"
+            "keyword": "6 триллиона"
         },
         {
             "count": 1,
-            "keyword": "31 августа"
+            "keyword": "ключевая ставка"
         },
         {
             "count": 1,
-            "keyword": "9 тысяч человек"
+            "keyword": "филиалы"
         },
         {
             "count": 1,
-            "keyword": "рустем умеров"
+            "keyword": "легковой автомобиль"
         },
         {
             "count": 1,
-            "keyword": "требования"
+            "keyword": "рост цен"
         },
         {
             "count": 1,
-            "keyword": "депутаты"
+            "keyword": "спасательное одеяло"
         },
         {
             "count": 1,
-            "keyword": "территория"
+            "keyword": "работники"
         },
         {
             "count": 1,
-            "keyword": "кнр"
+            "keyword": "тело"
         },
         {
             "count": 1,
-            "keyword": "краматорск"
+            "keyword": "интернет-портал"
         },
         {
             "count": 1,
-            "keyword": "парламент"
+            "keyword": "120 мск"
         },
         {
             "count": 1,
-            "keyword": "артамонов"
+            "keyword": "лица старше 18"
         },
         {
             "count": 1,
-            "keyword": "даламан"
+            "keyword": "спокойной ночи"
         },
         {
             "count": 1,
-            "keyword": "избиратели"
+            "keyword": "столкновение"
         },
         {
             "count": 1,
-            "keyword": "дипломаты"
+            "keyword": "10-15%"
         },
         {
             "count": 1,
-            "keyword": "поручительства"
+            "keyword": "полугодие"
         },
         {
             "count": 1,
-            "keyword": "активное избирательное право"
+            "keyword": "заемщики"
         },
         {
             "count": 1,
-            "keyword": "цб рф"
+            "keyword": "состояния"
         },
         {
             "count": 1,
-            "keyword": "жгут"
+            "keyword": "информационное сообщение"
         },
         {
             "count": 1,
-            "keyword": "марлевая салфетка"
+            "keyword": "события"
         },
         {
             "count": 1,
-            "keyword": "работающие инвалиды"
+            "keyword": "избирательный кодекс"
         },
         {
             "count": 1,
-            "keyword": "украина"
+            "keyword": "бинт"
         },
         {
             "count": 1,
-            "keyword": "направления"
+            "keyword": "мизопростол"
         },
         {
             "count": 1,
-            "keyword": "африка"
+            "keyword": "дестабилизирующее поведение"
         },
         {
             "count": 1,
-            "keyword": "мужество"
+            "keyword": "коллективный договор"
         },
         {
             "count": 1,
-            "keyword": "нато"
+            "keyword": "минцифры"
         },
         {
             "count": 1,
-            "keyword": "квадроциклы"
+            "keyword": "отдых"
         },
         {
             "count": 1,
-            "keyword": "вторичный рынок"
+            "keyword": "тэфи"
         },
         {
             "count": 1,
-            "keyword": "организация"
+            "keyword": "капитал"
         },
         {
             "count": 1,
-            "keyword": "циклопентолат"
+            "keyword": "федеральный реестр"
         },
         {
             "count": 1,
-            "keyword": "досрочные выборы"
+            "keyword": "повторное использование"
         },
         {
             "count": 1,
-            "keyword": "храбрость"
+            "keyword": "минпромторг"
         },
         {
             "count": 1,
-            "keyword": "двойной размер"
+            "keyword": "выборы"
         },
         {
             "count": 1,
-            "keyword": "эскалация"
+            "keyword": "минивэн"
         },
         {
             "count": 1,
-            "keyword": "российская туристка"
+            "keyword": "возвращение задолженности"
         },
         {
             "count": 1,
-            "keyword": "вражеские"
+            "keyword": "деятельность"
         },
         {
             "count": 1,
-            "keyword": "просроченная задолженность"
+            "keyword": "газ"
         },
         {
             "count": 1,
-            "keyword": "стадион о2"
+            "keyword": "сбит"
         },
         {
             "count": 1,
-            "keyword": "отсрочка"
+            "keyword": "прокуратура"
         },
         {
             "count": 1,
-            "keyword": "штатно"
+            "keyword": "роскомнадзор"
         },
         {
             "count": 1,
-            "keyword": "беременности"
+            "keyword": "технические средства"
         },
         {
             "count": 1,
-            "keyword": "родственники"
+            "keyword": "трюк"
         },
         {
             "count": 1,
-            "keyword": "цифровой рубль"
+            "keyword": "пять детей"
         },
         {
             "count": 1,
-            "keyword": "внутренние дела"
+            "keyword": "александр гусев"
         },
         {
             "count": 1,
-            "keyword": "судебно-медицинская экспертиза"
+            "keyword": "противодействие"
         },
         {
             "count": 1,
-            "keyword": "местный парк"
+            "keyword": "неоплата"
         },
         {
             "count": 1,
-            "keyword": "онкологические заболевания"
+            "keyword": "фронт"
         },
         {
             "count": 1,
-            "keyword": "грязинский"
+            "keyword": "условия"
         },
         {
             "count": 1,
-            "keyword": "программное обеспечение"
+            "keyword": "эволюция"
         },
         {
             "count": 1,
-            "keyword": "самолетного типа"
+            "keyword": "запад"
         },
         {
             "count": 1,
-            "keyword": "население"
+            "keyword": "вторая мировая война"
         },
         {
             "count": 1,
-            "keyword": "предварительная информация"
+            "keyword": "банковская деятельность"
         },
         {
             "count": 1,
-            "keyword": "следственный отдел"
+            "keyword": "оперативный кризис"
         },
         {
             "count": 1,
-            "keyword": "серия взрывов"
+            "keyword": "въездной туризм"
         },
         {
             "count": 1,
-            "keyword": "четверо"
+            "keyword": "константиновка"
         },
         {
             "count": 1,
-            "keyword": "политические противоречия"
+            "keyword": "блок политических партий"
         },
         {
             "count": 1,
-            "keyword": "минтранс"
+            "keyword": "торецк"
         },
         {
             "count": 1,
-            "keyword": "список целей"
+            "keyword": "государственные эксперты"
         },
         {
             "count": 1,
-            "keyword": "снабжение"
+            "keyword": "посетители"
         },
         {
             "count": 1,
-            "keyword": "организаторы"
+            "keyword": "красноармейск"
         },
         {
             "count": 1,
-            "keyword": "ревакцинация"
+            "keyword": "микропредприятия"
         },
         {
             "count": 1,
-            "keyword": "соглашение"
+            "keyword": "соблюдение"
         },
         {
             "count": 1,
-            "keyword": "бомбардировки"
+            "keyword": "военно-морские корабли"
         },
         {
             "count": 1,
-            "keyword": "30 дней"
+            "keyword": "поиски"
         },
         {
             "count": 1,
-            "keyword": "уничтожено"
+            "keyword": "новая форма"
         },
         {
             "count": 1,
-            "keyword": "вступит в силу"
+            "keyword": "ответственность"
         },
         {
             "count": 1,
-            "keyword": "эксперименты"
+            "keyword": "оксана федорова"
         },
         {
             "count": 1,
-            "keyword": "иммунодефициты"
+            "keyword": "дубай"
         },
         {
             "count": 1,
-            "keyword": "макропруденциальный запас"
+            "keyword": "закон о связи"
         },
         {
             "count": 1,
-            "keyword": "кредитные каникулы"
+            "keyword": "гитлер"
         },
         {
             "count": 1,
@@ -802,51 +858,15 @@
         },
         {
             "count": 1,
-            "keyword": "физические лица"
+            "keyword": "вторичный рынок"
         },
         {
             "count": 1,
-            "keyword": "паки"
+            "keyword": "спецзвания"
         },
         {
             "count": 1,
-            "keyword": "водители"
-        },
-        {
-            "count": 1,
-            "keyword": "препараты"
-        },
-        {
-            "count": 1,
-            "keyword": "иноагенты"
-        },
-        {
-            "count": 1,
-            "keyword": "задний привод"
-        },
-        {
-            "count": 1,
-            "keyword": "закрытие"
-        },
-        {
-            "count": 1,
-            "keyword": "липецк"
-        },
-        {
-            "count": 1,
-            "keyword": "toyota"
-        },
-        {
-            "count": 1,
-            "keyword": "курорт"
-        },
-        {
-            "count": 1,
-            "keyword": "минсельхоз"
-        },
-        {
-            "count": 1,
-            "keyword": "министр обороны"
+            "keyword": "интернет-трафик"
         },
         {
             "count": 1,
@@ -854,15 +874,87 @@
         },
         {
             "count": 1,
-            "keyword": "пассажиры"
+            "keyword": "отравления"
         },
         {
             "count": 1,
-            "keyword": "персонажи"
+            "keyword": "украина"
         },
         {
             "count": 1,
-            "keyword": "спецзвания"
+            "keyword": "минсельхоз"
+        },
+        {
+            "count": 1,
+            "keyword": "общественная экологическая экспертиза"
+        },
+        {
+            "count": 1,
+            "keyword": "охрана"
+        },
+        {
+            "count": 1,
+            "keyword": "физлицы"
+        },
+        {
+            "count": 1,
+            "keyword": "эксперименты"
+        },
+        {
+            "count": 1,
+            "keyword": "toyota"
+        },
+        {
+            "count": 1,
+            "keyword": "бомбардировки"
+        },
+        {
+            "count": 1,
+            "keyword": "мужество"
+        },
+        {
+            "count": 1,
+            "keyword": "политические партии"
+        },
+        {
+            "count": 1,
+            "keyword": "внутренний туризм"
+        },
+        {
+            "count": 1,
+            "keyword": "консультационные услуги"
+        },
+        {
+            "count": 1,
+            "keyword": "обнаружены"
+        },
+        {
+            "count": 1,
+            "keyword": "постановление"
+        },
+        {
+            "count": 1,
+            "keyword": "кредиты"
+        },
+        {
+            "count": 1,
+            "keyword": "китай"
+        },
+        {
+            "count": 1,
+            "keyword": "мифепристон"
+        },
+        {
+            "count": 1,
+            "keyword": "уничтожено"
+        },
+        {
+            "count": 1,
+            "keyword": "физические лица"
+        },
+        {
+            "count": 1,
+            "keyword": "нато"
         },
         {
             "count": 1,
@@ -874,55 +966,31 @@
         },
         {
             "count": 1,
-            "keyword": "охрана"
+            "keyword": "никотинсодержащая продукция"
         },
         {
             "count": 1,
-            "keyword": "covid-19"
+            "keyword": "водители"
         },
         {
             "count": 1,
-            "keyword": "союз"
+            "keyword": "паки"
         },
         {
             "count": 1,
-            "keyword": "италия"
+            "keyword": "голосование"
         },
         {
             "count": 1,
-            "keyword": "риски"
+            "keyword": "турбизнес"
         },
         {
             "count": 1,
-            "keyword": "наборы"
+            "keyword": "обязательная"
         },
         {
             "count": 1,
-            "keyword": "50%"
-        },
-        {
-            "count": 1,
-            "keyword": "нацгвардия"
-        },
-        {
-            "count": 1,
-            "keyword": "пдд"
-        },
-        {
-            "count": 1,
-            "keyword": "доступность"
-        },
-        {
-            "count": 1,
-            "keyword": "муниципальные округа"
-        },
-        {
-            "count": 1,
-            "keyword": "поиск"
-        },
-        {
-            "count": 1,
-            "keyword": "кредиты"
+            "keyword": "камчатка"
         },
         {
             "count": 1,
@@ -930,47 +998,7 @@
         },
         {
             "count": 1,
-            "keyword": "микрорайон"
-        },
-        {
-            "count": 1,
-            "keyword": "правоохранительные органы"
-        },
-        {
-            "count": 1,
-            "keyword": "госпитализация"
-        },
-        {
-            "count": 1,
-            "keyword": "полуторный размер"
-        },
-        {
-            "count": 1,
-            "keyword": "ск"
-        },
-        {
-            "count": 1,
-            "keyword": "цена"
-        },
-        {
-            "count": 1,
-            "keyword": "минобрнауки"
-        },
-        {
-            "count": 1,
-            "keyword": "камеры"
-        },
-        {
-            "count": 1,
-            "keyword": "спасательное покрывало"
-        },
-        {
-            "count": 1,
-            "keyword": "обнаружены"
-        },
-        {
-            "count": 1,
-            "keyword": "уничтожены"
+            "keyword": "иноагенты"
         },
         {
             "count": 1,
@@ -978,119 +1006,15 @@
         },
         {
             "count": 1,
-            "keyword": "представление"
-        },
-        {
-            "count": 1,
-            "keyword": "женщина"
-        },
-        {
-            "count": 1,
-            "keyword": "одинцово"
-        },
-        {
-            "count": 1,
-            "keyword": "постановление правительства"
-        },
-        {
-            "count": 1,
-            "keyword": "экипаж"
-        },
-        {
-            "count": 1,
-            "keyword": "мифепристон"
-        },
-        {
-            "count": 1,
-            "keyword": "консультационные услуги"
-        },
-        {
-            "count": 1,
-            "keyword": "первое полугодие"
-        },
-        {
-            "count": 1,
-            "keyword": "хронические заболевания"
-        },
-        {
-            "count": 1,
-            "keyword": "никотинсодержащая продукция"
-        },
-        {
-            "count": 1,
-            "keyword": "автобусы"
-        },
-        {
-            "count": 1,
-            "keyword": "общественная экологическая экспертиза"
-        },
-        {
-            "count": 1,
-            "keyword": "профилактические прививки"
-        },
-        {
-            "count": 1,
-            "keyword": "повреждения"
-        },
-        {
-            "count": 1,
-            "keyword": "московская область"
-        },
-        {
-            "count": 1,
-            "keyword": "мажоритарная система"
-        },
-        {
-            "count": 1,
-            "keyword": "китай"
-        },
-        {
-            "count": 1,
-            "keyword": "интернет-трафик"
-        },
-        {
-            "count": 1,
-            "keyword": "спустить"
-        },
-        {
-            "count": 1,
-            "keyword": "не болевшие"
-        },
-        {
-            "count": 1,
-            "keyword": "внутренний туризм"
-        },
-        {
-            "count": 1,
-            "keyword": "отечественные"
-        },
-        {
-            "count": 1,
-            "keyword": "традиция"
-        },
-        {
-            "count": 1,
-            "keyword": "отравления"
-        },
-        {
-            "count": 1,
-            "keyword": "уязвимые категории"
-        },
-        {
-            "count": 1,
             "keyword": "система пво"
         },
         {
             "count": 1,
-            "keyword": "политические партии"
+            "keyword": "двойной размер"
         },
         {
             "count": 1,
-            "keyword": "озеро тахколоч"
-        },
-        {
-            "count": 1,
-            "keyword": "причины"
+            "keyword": "правоохранительные органы"
         },
         {
             "count": 1,
@@ -1098,23 +1022,63 @@
         },
         {
             "count": 1,
-            "keyword": "постановление"
+            "keyword": "серия взрывов"
         },
         {
             "count": 1,
-            "keyword": "мавзолей ленина"
+            "keyword": "российская туристка"
         },
         {
             "count": 1,
-            "keyword": "летательные аппараты"
+            "keyword": "микрорайон"
         },
         {
             "count": 1,
-            "keyword": "подавление"
+            "keyword": "досрочные выборы"
         },
         {
             "count": 1,
-            "keyword": "сверхурочная работа"
+            "keyword": "поиск"
+        },
+        {
+            "count": 1,
+            "keyword": "союз"
+        },
+        {
+            "count": 1,
+            "keyword": "направления"
+        },
+        {
+            "count": 1,
+            "keyword": "курорт"
+        },
+        {
+            "count": 1,
+            "keyword": "ск"
+        },
+        {
+            "count": 1,
+            "keyword": "вступит в силу"
+        },
+        {
+            "count": 1,
+            "keyword": "не болевшие"
+        },
+        {
+            "count": 1,
+            "keyword": "самолетного типа"
+        },
+        {
+            "count": 1,
+            "keyword": "учредители"
+        },
+        {
+            "count": 1,
+            "keyword": "соглашение"
+        },
+        {
+            "count": 1,
+            "keyword": "пдд"
         },
         {
             "count": 1,
@@ -1122,7 +1086,67 @@
         },
         {
             "count": 1,
-            "keyword": "физлицы"
+            "keyword": "утилитарность"
+        },
+        {
+            "count": 1,
+            "keyword": "covid-19"
+        },
+        {
+            "count": 1,
+            "keyword": "стадион о2"
+        },
+        {
+            "count": 1,
+            "keyword": "50%"
+        },
+        {
+            "count": 1,
+            "keyword": "озеро тахколоч"
+        },
+        {
+            "count": 1,
+            "keyword": "подавление"
+        },
+        {
+            "count": 1,
+            "keyword": "циклопентолат"
+        },
+        {
+            "count": 1,
+            "keyword": "муниципальные округа"
+        },
+        {
+            "count": 1,
+            "keyword": "внутренние дела"
+        },
+        {
+            "count": 1,
+            "keyword": "онкологические заболевания"
+        },
+        {
+            "count": 1,
+            "keyword": "следственный отдел"
+        },
+        {
+            "count": 1,
+            "keyword": "традиция"
+        },
+        {
+            "count": 1,
+            "keyword": "штатно"
+        },
+        {
+            "count": 1,
+            "keyword": "эскалация"
+        },
+        {
+            "count": 1,
+            "keyword": "макропруденциальный запас"
+        },
+        {
+            "count": 1,
+            "keyword": "нацгвардия"
         },
         {
             "count": 1,
@@ -1130,11 +1154,383 @@
         },
         {
             "count": 1,
+            "keyword": "повреждения"
+        },
+        {
+            "count": 1,
+            "keyword": "автобусы"
+        },
+        {
+            "count": 1,
+            "keyword": "дороги"
+        },
+        {
+            "count": 1,
+            "keyword": "экипаж"
+        },
+        {
+            "count": 1,
+            "keyword": "снабжение"
+        },
+        {
+            "count": 1,
+            "keyword": "летательные аппараты"
+        },
+        {
+            "count": 1,
+            "keyword": "женщина"
+        },
+        {
+            "count": 1,
+            "keyword": "камеры"
+        },
+        {
+            "count": 1,
+            "keyword": "организация"
+        },
+        {
+            "count": 1,
+            "keyword": "задний привод"
+        },
+        {
+            "count": 1,
+            "keyword": "30 дней"
+        },
+        {
+            "count": 1,
+            "keyword": "доступность"
+        },
+        {
+            "count": 1,
+            "keyword": "храбрость"
+        },
+        {
+            "count": 1,
+            "keyword": "одинцово"
+        },
+        {
+            "count": 1,
+            "keyword": "пассажиры"
+        },
+        {
+            "count": 1,
+            "keyword": "полуторный размер"
+        },
+        {
+            "count": 1,
+            "keyword": "хронические заболевания"
+        },
+        {
+            "count": 1,
+            "keyword": "четверо"
+        },
+        {
+            "count": 1,
+            "keyword": "предварительная информация"
+        },
+        {
+            "count": 1,
+            "keyword": "организаторы"
+        },
+        {
+            "count": 1,
+            "keyword": "спасательное покрывало"
+        },
+        {
+            "count": 1,
+            "keyword": "спустить"
+        },
+        {
+            "count": 1,
+            "keyword": "сильвертаун"
+        },
+        {
+            "count": 1,
+            "keyword": "семья"
+        },
+        {
+            "count": 1,
+            "keyword": "закрытие"
+        },
+        {
+            "count": 1,
+            "keyword": "цифровой рубль"
+        },
+        {
+            "count": 1,
+            "keyword": "уничтожены"
+        },
+        {
+            "count": 1,
+            "keyword": "коллекторские фирмы"
+        },
+        {
+            "count": 1,
+            "keyword": "мажоритарная система"
+        },
+        {
+            "count": 1,
+            "keyword": "подавлено"
+        },
+        {
+            "count": 1,
+            "keyword": "африка"
+        },
+        {
+            "count": 1,
+            "keyword": "италия"
+        },
+        {
+            "count": 1,
+            "keyword": "постановление правительства"
+        },
+        {
+            "count": 1,
+            "keyword": "дата"
+        },
+        {
+            "count": 1,
+            "keyword": "цена"
+        },
+        {
+            "count": 1,
+            "keyword": "профилактические прививки"
+        },
+        {
+            "count": 1,
+            "keyword": "снаряды"
+        },
+        {
+            "count": 1,
+            "keyword": "министр обороны"
+        },
+        {
+            "count": 1,
+            "keyword": "просроченная задолженность"
+        },
+        {
+            "count": 1,
+            "keyword": "родственники"
+        },
+        {
+            "count": 1,
+            "keyword": "кредитные каникулы"
+        },
+        {
+            "count": 1,
+            "keyword": "местный парк"
+        },
+        {
+            "count": 1,
+            "keyword": "наборы"
+        },
+        {
+            "count": 1,
+            "keyword": "отсрочка"
+        },
+        {
+            "count": 1,
+            "keyword": "причины"
+        },
+        {
+            "count": 1,
+            "keyword": "препараты"
+        },
+        {
+            "count": 1,
+            "keyword": "квадроциклы"
+        },
+        {
+            "count": 1,
+            "keyword": "липецк"
+        },
+        {
+            "count": 1,
+            "keyword": "первое полугодие"
+        },
+        {
+            "count": 1,
+            "keyword": "юридические лица"
+        },
+        {
+            "count": 1,
+            "keyword": "московская область"
+        },
+        {
+            "count": 1,
+            "keyword": "иммунодефициты"
+        },
+        {
+            "count": 1,
+            "keyword": "реализация"
+        },
+        {
+            "count": 1,
+            "keyword": "аппаратов"
+        },
+        {
+            "count": 1,
+            "keyword": "госпитализация"
+        },
+        {
+            "count": 1,
+            "keyword": "возраст"
+        },
+        {
+            "count": 1,
+            "keyword": "cnn"
+        },
+        {
+            "count": 1,
+            "keyword": "военные"
+        },
+        {
+            "count": 1,
+            "keyword": "международное право"
+        },
+        {
+            "count": 1,
+            "keyword": "егорьевск"
+        },
+        {
+            "count": 1,
+            "keyword": "лидер"
+        },
+        {
+            "count": 1,
+            "keyword": "умеров"
+        },
+        {
+            "count": 1,
+            "keyword": "судья"
+        },
+        {
+            "count": 1,
+            "keyword": "не привитые"
+        },
+        {
+            "count": 1,
+            "keyword": "цб"
+        },
+        {
+            "count": 1,
+            "keyword": "надзор"
+        },
+        {
+            "count": 1,
             "keyword": "отечество"
         },
         {
             "count": 1,
-            "keyword": "приоритет"
+            "keyword": "репатриация"
+        },
+        {
+            "count": 1,
+            "keyword": "2024 год"
+        },
+        {
+            "count": 1,
+            "keyword": "депозит"
+        },
+        {
+            "count": 1,
+            "keyword": "громкий взрыв"
+        },
+        {
+            "count": 1,
+            "keyword": "суверенитет"
+        },
+        {
+            "count": 1,
+            "keyword": "новожеланное"
+        },
+        {
+            "count": 1,
+            "keyword": "ми-8"
+        },
+        {
+            "count": 1,
+            "keyword": "ильхам алиев"
+        },
+        {
+            "count": 1,
+            "keyword": "аборты"
+        },
+        {
+            "count": 1,
+            "keyword": "аттракцион"
+        },
+        {
+            "count": 1,
+            "keyword": "правонарушение"
+        },
+        {
+            "count": 1,
+            "keyword": "польшa"
+        },
+        {
+            "count": 1,
+            "keyword": "профилактические меры"
+        },
+        {
+            "count": 1,
+            "keyword": "микрофинансовые организации"
+        },
+        {
+            "count": 1,
+            "keyword": "лица"
+        },
+        {
+            "count": 1,
+            "keyword": "анталья"
+        },
+        {
+            "count": 1,
+            "keyword": "росреестр"
+        },
+        {
+            "count": 1,
+            "keyword": "доступный интернет"
+        },
+        {
+            "count": 1,
+            "keyword": "смарт-контракты"
+        },
+        {
+            "count": 1,
+            "keyword": "сопровождающий"
+        },
+        {
+            "count": 1,
+            "keyword": "трамваи"
+        },
+        {
+            "count": 1,
+            "keyword": "информация"
+        },
+        {
+            "count": 1,
+            "keyword": "трудовой договор"
+        },
+        {
+            "count": 1,
+            "keyword": "причина"
+        },
+        {
+            "count": 1,
+            "keyword": "динамический qr-код"
+        },
+        {
+            "count": 1,
+            "keyword": "наталья сомова"
+        },
+        {
+            "count": 1,
+            "keyword": "устранение причин"
+        },
+        {
+            "count": 1,
+            "keyword": "наблюдение"
         },
         {
             "count": 1,
@@ -1146,15 +1542,27 @@
         },
         {
             "count": 1,
-            "keyword": "мальчик"
+            "keyword": "минфин"
         },
         {
             "count": 1,
-            "keyword": "онлайн-ресурсы"
+            "keyword": "правительство рф"
         },
         {
             "count": 1,
-            "keyword": "азербайджан"
+            "keyword": "военно-морские силы"
+        },
+        {
+            "count": 1,
+            "keyword": "анна михалкова"
+        },
+        {
+            "count": 1,
+            "keyword": "природопользование"
+        },
+        {
+            "count": 1,
+            "keyword": "противопожарная служба"
         },
         {
             "count": 1,
@@ -1162,39 +1570,11 @@
         },
         {
             "count": 1,
-            "keyword": "росреестр"
-        },
-        {
-            "count": 1,
-            "keyword": "умеров"
-        },
-        {
-            "count": 1,
-            "keyword": "календарь"
-        },
-        {
-            "count": 1,
             "keyword": "15 ноября 2023"
         },
         {
             "count": 1,
-            "keyword": "воздушный транспорт"
-        },
-        {
-            "count": 1,
-            "keyword": "нагреваемый табак"
-        },
-        {
-            "count": 1,
-            "keyword": "волонтеры"
-        },
-        {
-            "count": 1,
-            "keyword": "телевидение"
-        },
-        {
-            "count": 1,
-            "keyword": "оплата товаров"
+            "keyword": "календарь"
         },
         {
             "count": 1,
@@ -1206,91 +1586,31 @@
         },
         {
             "count": 1,
-            "keyword": "регулирование"
+            "keyword": "россияне"
         },
         {
             "count": 1,
-            "keyword": "маска"
+            "keyword": "теракт"
         },
         {
             "count": 1,
-            "keyword": "ипотечный заем"
+            "keyword": "установка"
         },
         {
             "count": 1,
-            "keyword": "надзор"
+            "keyword": "набиуллина"
         },
         {
             "count": 1,
-            "keyword": "выездной туризм"
+            "keyword": "онлайн-ресурсы"
         },
         {
             "count": 1,
-            "keyword": "40 квадратных метров"
+            "keyword": "азербайджан"
         },
         {
             "count": 1,
-            "keyword": "мчс россии"
-        },
-        {
-            "count": 1,
-            "keyword": "напряженная обстановка"
-        },
-        {
-            "count": 1,
-            "keyword": "инвалиды"
-        },
-        {
-            "count": 1,
-            "keyword": "жидкости"
-        },
-        {
-            "count": 1,
-            "keyword": "мобильные средства"
-        },
-        {
-            "count": 1,
-            "keyword": "аборты"
-        },
-        {
-            "count": 1,
-            "keyword": "лидер"
-        },
-        {
-            "count": 1,
-            "keyword": "сопровождающий"
-        },
-        {
-            "count": 1,
-            "keyword": "доступный интернет"
-        },
-        {
-            "count": 1,
-            "keyword": "дежурные силы"
-        },
-        {
-            "count": 1,
-            "keyword": "микрофинансовые организации"
-        },
-        {
-            "count": 1,
-            "keyword": "ми-8"
-        },
-        {
-            "count": 1,
-            "keyword": "daily mail"
-        },
-        {
-            "count": 1,
-            "keyword": "переход"
-        },
-        {
-            "count": 1,
-            "keyword": "ракеты"
-        },
-        {
-            "count": 1,
-            "keyword": "прерывание"
+            "keyword": "егор васильев"
         },
         {
             "count": 1,
@@ -1298,7 +1618,91 @@
         },
         {
             "count": 1,
-            "keyword": "военно-морские силы"
+            "keyword": "аутоиммунные заболевания"
+        },
+        {
+            "count": 1,
+            "keyword": "выездной туризм"
+        },
+        {
+            "count": 1,
+            "keyword": "белгород"
+        },
+        {
+            "count": 1,
+            "keyword": "дежурные силы"
+        },
+        {
+            "count": 1,
+            "keyword": "регулирование"
+        },
+        {
+            "count": 1,
+            "keyword": "автоматизация"
+        },
+        {
+            "count": 1,
+            "keyword": "акциз"
+        },
+        {
+            "count": 1,
+            "keyword": "пламенем"
+        },
+        {
+            "count": 1,
+            "keyword": "эпидпоказания"
+        },
+        {
+            "count": 1,
+            "keyword": "лейкопластырь"
+        },
+        {
+            "count": 1,
+            "keyword": "воздушный транспорт"
+        },
+        {
+            "count": 1,
+            "keyword": "социальная защита"
+        },
+        {
+            "count": 1,
+            "keyword": "измир"
+        },
+        {
+            "count": 1,
+            "keyword": "инвалиды"
+        },
+        {
+            "count": 1,
+            "keyword": "2025 год"
+        },
+        {
+            "count": 1,
+            "keyword": "напряженная обстановка"
+        },
+        {
+            "count": 1,
+            "keyword": "вступает в силу"
+        },
+        {
+            "count": 1,
+            "keyword": "аэропорт"
+        },
+        {
+            "count": 1,
+            "keyword": "киносъемки"
+        },
+        {
+            "count": 1,
+            "keyword": "ракеты"
+        },
+        {
+            "count": 1,
+            "keyword": "мать"
+        },
+        {
+            "count": 1,
+            "keyword": "прерывание"
         },
         {
             "count": 1,
@@ -1310,31 +1714,11 @@
         },
         {
             "count": 1,
-            "keyword": "правонарушение"
+            "keyword": "расследование"
         },
         {
             "count": 1,
-            "keyword": "увольнение"
-        },
-        {
-            "count": 1,
-            "keyword": "0"
-        },
-        {
-            "count": 1,
-            "keyword": "правительство рф"
-        },
-        {
-            "count": 1,
-            "keyword": "банковские счета"
-        },
-        {
-            "count": 1,
-            "keyword": "профилактические меры"
-        },
-        {
-            "count": 1,
-            "keyword": "отпуск"
+            "keyword": "азия"
         },
         {
             "count": 1,
@@ -1342,7 +1726,19 @@
         },
         {
             "count": 1,
-            "keyword": "анталья"
+            "keyword": "увольнение"
+        },
+        {
+            "count": 1,
+            "keyword": "пакетные туры"
+        },
+        {
+            "count": 1,
+            "keyword": "береговая охрана"
+        },
+        {
+            "count": 1,
+            "keyword": "отпуск"
         },
         {
             "count": 1,
@@ -1350,7 +1746,7 @@
         },
         {
             "count": 1,
-            "keyword": "системы оплаты труда"
+            "keyword": "работодателя"
         },
         {
             "count": 1,
@@ -1358,19 +1754,15 @@
         },
         {
             "count": 1,
+            "keyword": "средства рэб"
+        },
+        {
+            "count": 1,
             "keyword": "30 тысяч рублей"
         },
         {
             "count": 1,
-            "keyword": "динамический qr-код"
-        },
-        {
-            "count": 1,
-            "keyword": "теракт"
-        },
-        {
-            "count": 1,
-            "keyword": "новожеланное"
+            "keyword": "комплекты"
         },
         {
             "count": 1,
@@ -1382,27 +1774,7 @@
         },
         {
             "count": 1,
-            "keyword": "лейкопластырь"
-        },
-        {
-            "count": 1,
-            "keyword": "ск россии"
-        },
-        {
-            "count": 1,
-            "keyword": "трамваи"
-        },
-        {
-            "count": 1,
-            "keyword": "депозит"
-        },
-        {
-            "count": 1,
             "keyword": "перчатки"
-        },
-        {
-            "count": 1,
-            "keyword": "россияне"
         },
         {
             "count": 1,
@@ -1410,7 +1782,11 @@
         },
         {
             "count": 1,
-            "keyword": "анна михалкова"
+            "keyword": "потери"
+        },
+        {
+            "count": 1,
+            "keyword": "мальчик"
         },
         {
             "count": 1,
@@ -1418,403 +1794,19 @@
         },
         {
             "count": 1,
-            "keyword": "оператор связи"
-        },
-        {
-            "count": 1,
-            "keyword": "потери"
-        },
-        {
-            "count": 1,
-            "keyword": "пламенем"
-        },
-        {
-            "count": 1,
-            "keyword": "польшa"
-        },
-        {
-            "count": 1,
-            "keyword": "синьковка"
-        },
-        {
-            "count": 1,
-            "keyword": "второе полугодие"
-        },
-        {
-            "count": 1,
-            "keyword": "не привитые"
-        },
-        {
-            "count": 1,
-            "keyword": "измир"
-        },
-        {
-            "count": 1,
-            "keyword": "вступает в силу"
-        },
-        {
-            "count": 1,
-            "keyword": "вакцинация"
-        },
-        {
-            "count": 1,
-            "keyword": "срок действия"
-        },
-        {
-            "count": 1,
-            "keyword": "обломки"
-        },
-        {
-            "count": 1,
-            "keyword": "обстоятельства"
-        },
-        {
-            "count": 1,
-            "keyword": "остановка дыхания"
-        },
-        {
-            "count": 1,
-            "keyword": "бюллетень"
-        },
-        {
-            "count": 1,
-            "keyword": "фсо россии"
-        },
-        {
-            "count": 1,
-            "keyword": "мармарис"
-        },
-        {
-            "count": 1,
-            "keyword": "азия"
-        },
-        {
-            "count": 1,
-            "keyword": "долговая нагрузка"
-        },
-        {
-            "count": 1,
-            "keyword": "2025 год"
-        },
-        {
-            "count": 1,
-            "keyword": "комплекты"
-        },
-        {
-            "count": 1,
-            "keyword": "социальная защита"
-        },
-        {
-            "count": 1,
-            "keyword": "аэропорт"
-        },
-        {
-            "count": 1,
-            "keyword": "заключения"
-        },
-        {
-            "count": 1,
-            "keyword": "егорьевск"
-        },
-        {
-            "count": 1,
-            "keyword": "акциз"
-        },
-        {
-            "count": 1,
-            "keyword": "учет"
-        },
-        {
-            "count": 1,
-            "keyword": "наталья сомова"
-        },
-        {
-            "count": 1,
-            "keyword": "пакетные туры"
-        },
-        {
-            "count": 1,
-            "keyword": "683"
-        },
-        {
-            "count": 1,
-            "keyword": "суверенитет"
-        },
-        {
-            "count": 1,
-            "keyword": "противопожарная служба"
-        },
-        {
-            "count": 1,
-            "keyword": "розница"
-        },
-        {
-            "count": 1,
-            "keyword": "природопользование"
-        },
-        {
-            "count": 1,
-            "keyword": "лица"
-        },
-        {
-            "count": 1,
-            "keyword": "цб"
-        },
-        {
-            "count": 1,
-            "keyword": "белгород"
-        },
-        {
-            "count": 1,
-            "keyword": "2024 год"
-        },
-        {
-            "count": 1,
-            "keyword": "киносъемки"
-        },
-        {
-            "count": 1,
-            "keyword": "аттракцион"
-        },
-        {
-            "count": 1,
-            "keyword": "ичмелер"
-        },
-        {
-            "count": 1,
-            "keyword": "маршрут"
-        },
-        {
-            "count": 1,
-            "keyword": "эпидпоказания"
-        },
-        {
-            "count": 1,
-            "keyword": "оборот"
-        },
-        {
-            "count": 1,
-            "keyword": "минимальные цены"
-        },
-        {
-            "count": 1,
-            "keyword": "фссп"
-        },
-        {
-            "count": 1,
-            "keyword": "фашизм"
-        },
-        {
-            "count": 1,
-            "keyword": "новый порядок"
-        },
-        {
-            "count": 1,
-            "keyword": "егор васильев"
-        },
-        {
-            "count": 1,
-            "keyword": "мать"
-        },
-        {
-            "count": 1,
-            "keyword": "трудовой договор"
-        },
-        {
-            "count": 1,
-            "keyword": "cnn"
-        },
-        {
-            "count": 1,
-            "keyword": "средства рэб"
-        },
-        {
-            "count": 1,
-            "keyword": "информация"
-        },
-        {
-            "count": 1,
-            "keyword": "сюжеты"
-        },
-        {
-            "count": 1,
-            "keyword": "опт"
-        },
-        {
-            "count": 1,
-            "keyword": "громкий взрыв"
-        },
-        {
-            "count": 1,
-            "keyword": "аутоиммунные заболевания"
-        },
-        {
-            "count": 1,
-            "keyword": "ильхам алиев"
-        },
-        {
-            "count": 1,
-            "keyword": "устранение причин"
-        },
-        {
-            "count": 1,
-            "keyword": "смарт-контракты"
-        },
-        {
-            "count": 1,
-            "keyword": "скачок напряжения"
-        },
-        {
-            "count": 1,
             "keyword": "фиксация"
         },
         {
             "count": 1,
-            "keyword": "автоматизация"
+            "keyword": "оператор связи"
         },
         {
             "count": 1,
-            "keyword": "судимость"
+            "keyword": "40 квадратных метров"
         },
         {
             "count": 1,
-            "keyword": "судья"
-        },
-        {
-            "count": 1,
-            "keyword": "береговая охрана"
-        },
-        {
-            "count": 1,
-            "keyword": "работодателя"
-        },
-        {
-            "count": 1,
-            "keyword": "муниципальные"
-        },
-        {
-            "count": 1,
-            "keyword": "набиуллина"
-        },
-        {
-            "count": 1,
-            "keyword": "куклы"
-        },
-        {
-            "count": 1,
-            "keyword": "сокращение"
-        },
-        {
-            "count": 1,
-            "keyword": "международное право"
-        },
-        {
-            "count": 1,
-            "keyword": "популярнее"
-        },
-        {
-            "count": 1,
-            "keyword": "запланированные съемки"
-        },
-        {
-            "count": 1,
-            "keyword": "репатриация"
-        },
-        {
-            "count": 1,
-            "keyword": "минэнерго"
-        },
-        {
-            "count": 1,
-            "keyword": "общественность"
-        },
-        {
-            "count": 1,
-            "keyword": "социальные противоречия"
-        },
-        {
-            "count": 1,
-            "keyword": "воронежская область"
-        },
-        {
-            "count": 1,
-            "keyword": "расследование"
-        },
-        {
-            "count": 1,
-            "keyword": "ступинск"
-        },
-        {
-            "count": 1,
-            "keyword": "минфин"
-        },
-        {
-            "count": 1,
-            "keyword": "военные"
-        },
-        {
-            "count": 1,
-            "keyword": "наблюдение"
-        },
-        {
-            "count": 1,
-            "keyword": "передача"
-        },
-        {
-            "count": 1,
-            "keyword": "высоком аттракционе"
-        },
-        {
-            "count": 1,
-            "keyword": "противодействие"
-        },
-        {
-            "count": 1,
-            "keyword": "инкассация"
-        },
-        {
-            "count": 1,
-            "keyword": "красноармейск"
-        },
-        {
-            "count": 1,
-            "keyword": "конституционный суд"
-        },
-        {
-            "count": 1,
-            "keyword": "10-15%"
-        },
-        {
-            "count": 1,
-            "keyword": "эволюция"
-        },
-        {
-            "count": 1,
-            "keyword": "проценты"
-        },
-        {
-            "count": 1,
-            "keyword": "дубай"
-        },
-        {
-            "count": 1,
-            "keyword": "тело"
-        },
-        {
-            "count": 1,
-            "keyword": "спокойной ночи"
-        },
-        {
-            "count": 1,
-            "keyword": "территориальные претензии"
-        },
-        {
-            "count": 1,
-            "keyword": "тэфи"
-        },
-        {
-            "count": 1,
-            "keyword": "деятельность"
+            "keyword": "минимальные цены"
         },
         {
             "count": 1,
@@ -1826,43 +1818,11 @@
         },
         {
             "count": 1,
-            "keyword": "выборы"
-        },
-        {
-            "count": 1,
-            "keyword": "информационное сообщение"
-        },
-        {
-            "count": 1,
-            "keyword": "местные власти"
-        },
-        {
-            "count": 1,
             "keyword": "стамбул"
         },
         {
             "count": 1,
-            "keyword": "ликвидация"
-        },
-        {
-            "count": 1,
-            "keyword": "ключевая ставка"
-        },
-        {
-            "count": 1,
-            "keyword": "образовательный"
-        },
-        {
-            "count": 1,
-            "keyword": "отрицательный баланс"
-        },
-        {
-            "count": 1,
-            "keyword": "спасательное одеяло"
-        },
-        {
-            "count": 1,
-            "keyword": "сбит"
+            "keyword": "ичмелер"
         },
         {
             "count": 1,
@@ -1870,767 +1830,447 @@
         },
         {
             "count": 1,
-            "keyword": "уголовно-исполнительная система"
+            "keyword": "ступинск"
         },
         {
             "count": 1,
-            "keyword": "коллективный договор"
+            "keyword": "розница"
         },
         {
             "count": 1,
-            "keyword": "масштабирование"
+            "keyword": "минэнерго"
         },
         {
             "count": 1,
-            "keyword": "запад"
+            "keyword": "учет"
         },
         {
             "count": 1,
-            "keyword": "оксана федорова"
+            "keyword": "заключения"
         },
         {
             "count": 1,
-            "keyword": "избирательный кодекс"
+            "keyword": "долговая нагрузка"
         },
         {
             "count": 1,
-            "keyword": "возвращение задолженности"
+            "keyword": "вакцинация"
         },
         {
             "count": 1,
-            "keyword": "столкновение"
+            "keyword": "приоритет"
         },
         {
             "count": 1,
-            "keyword": "минпромторг"
+            "keyword": "ипотечный заем"
         },
         {
             "count": 1,
-            "keyword": "нарушения"
+            "keyword": "общественность"
         },
         {
             "count": 1,
-            "keyword": "владимир путин"
+            "keyword": "банковские счета"
         },
         {
             "count": 1,
-            "keyword": "въездной туризм"
+            "keyword": "судимость"
         },
         {
             "count": 1,
-            "keyword": "оээ"
+            "keyword": "остановка дыхания"
         },
         {
             "count": 1,
-            "keyword": "дестабилизирующее поведение"
+            "keyword": "обломки"
         },
         {
             "count": 1,
-            "keyword": "военно-морские корабли"
+            "keyword": "маршрут"
         },
         {
             "count": 1,
-            "keyword": "кремлевская стена"
+            "keyword": "телевидение"
         },
         {
             "count": 1,
-            "keyword": "бинт"
+            "keyword": "оплата товаров"
         },
         {
             "count": 1,
-            "keyword": "новая форма"
+            "keyword": "оборот"
         },
         {
             "count": 1,
-            "keyword": "ганчев"
+            "keyword": "опт"
         },
         {
             "count": 1,
-            "keyword": "трюк"
+            "keyword": "фашизм"
         },
         {
             "count": 1,
-            "keyword": "мизопростол"
+            "keyword": "фссп"
         },
         {
             "count": 1,
-            "keyword": "минивэн"
+            "keyword": "синьковка"
         },
         {
             "count": 1,
-            "keyword": "продолжают"
+            "keyword": "жидкости"
         },
         {
             "count": 1,
-            "keyword": "оперативные службы"
+            "keyword": "муниципальные"
         },
         {
             "count": 1,
-            "keyword": "генсек нато"
+            "keyword": "скачок напряжения"
         },
         {
             "count": 1,
-            "keyword": "ответственность"
+            "keyword": "фсо россии"
         },
         {
             "count": 1,
-            "keyword": "поиски"
+            "keyword": "обстоятельства"
         },
         {
             "count": 1,
-            "keyword": "заемщики"
+            "keyword": "социальные противоречия"
         },
         {
             "count": 1,
-            "keyword": "банки"
+            "keyword": "новый порядок"
         },
         {
             "count": 1,
-            "keyword": "микропредприятия"
+            "keyword": "бюллетень"
         },
         {
             "count": 1,
-            "keyword": "торецк"
+            "keyword": "системы оплаты труда"
         },
         {
             "count": 1,
-            "keyword": "годовых"
+            "keyword": "срок действия"
         },
         {
             "count": 1,
-            "keyword": "посетители"
+            "keyword": "мармарис"
         },
         {
             "count": 1,
-            "keyword": "потребкредиты"
+            "keyword": "683"
         },
         {
             "count": 1,
-            "keyword": "еис"
+            "keyword": "популярнее"
         },
         {
             "count": 1,
-            "keyword": "больница"
+            "keyword": "маска"
         },
         {
             "count": 1,
-            "keyword": "работники"
+            "keyword": "ск россии"
         },
         {
             "count": 1,
-            "keyword": "электронная путевка"
+            "keyword": "0"
         },
         {
             "count": 1,
-            "keyword": "следствие"
+            "keyword": "автоматический контроль"
         },
         {
             "count": 1,
-            "keyword": "константиновка"
+            "keyword": "30 человек"
         },
         {
             "count": 1,
-            "keyword": "иностранные банки"
+            "keyword": "рустем умеров"
         },
         {
             "count": 1,
-            "keyword": "выпуск"
+            "keyword": "поручительства"
         },
         {
             "count": 1,
-            "keyword": "неоплата"
+            "keyword": "волгоград"
         },
         {
             "count": 1,
-            "keyword": "видеофиксация"
+            "keyword": "комитет госдумы"
         },
         {
             "count": 1,
-            "keyword": "гитлер"
+            "keyword": "территория"
         },
         {
             "count": 1,
-            "keyword": "капитал"
+            "keyword": "кабмин"
         },
         {
             "count": 1,
-            "keyword": "девочки"
+            "keyword": "кнр"
         },
         {
             "count": 1,
-            "keyword": "рсзо vampire"
+            "keyword": "воздушные цели"
         },
         {
             "count": 1,
-            "keyword": "александр гусев"
+            "keyword": "специальная военная операция"
         },
         {
             "count": 1,
-            "keyword": "соблюдение"
+            "keyword": "дипломаты"
         },
         {
             "count": 1,
-            "keyword": "федеральный реестр"
+            "keyword": "1 марта 2025 года"
         },
         {
             "count": 1,
-            "keyword": "пять детей"
+            "keyword": "минтранс"
         },
         {
             "count": 1,
-            "keyword": "газ"
+            "keyword": "9 тысяч человек"
         },
         {
             "count": 1,
-            "keyword": "установка"
+            "keyword": "отчеты"
         },
         {
             "count": 1,
-            "keyword": "ценные бумаги"
+            "keyword": "политические противоречия"
         },
         {
             "count": 1,
-            "keyword": "закон о связи"
+            "keyword": "цб рф"
         },
         {
             "count": 1,
-            "keyword": "вторая мировая война"
+            "keyword": "белый дом"
         },
         {
             "count": 1,
-            "keyword": "120 мск"
+            "keyword": "избиратели"
         },
         {
             "count": 1,
-            "keyword": "банковская деятельность"
+            "keyword": "кодекс"
         },
         {
             "count": 1,
-            "keyword": "состояния"
+            "keyword": "госавтоинспекция"
         },
         {
             "count": 1,
-            "keyword": "филиалы"
+            "keyword": "краматорск"
         },
         {
             "count": 1,
-            "keyword": "новые требования"
+            "keyword": "артамонов"
         },
         {
             "count": 1,
-            "keyword": "роскомнадзор"
+            "keyword": "марлевая салфетка"
         },
         {
             "count": 1,
-            "keyword": "события"
+            "keyword": "отечественные"
         },
         {
             "count": 1,
-            "keyword": "уфа"
+            "keyword": "список целей"
         },
         {
             "count": 1,
-            "keyword": "рост цен"
+            "keyword": "параметры"
         },
         {
             "count": 1,
-            "keyword": "тактический кризис"
+            "keyword": "программное обеспечение"
         },
         {
             "count": 1,
-            "keyword": "повторное использование"
+            "keyword": "население"
         },
         {
             "count": 1,
-            "keyword": "госпрограммы"
+            "keyword": "укладки"
         },
         {
             "count": 1,
-            "keyword": "условия"
+            "keyword": "задержка"
         },
         {
             "count": 1,
-            "keyword": "полиция"
+            "keyword": "техника"
         },
         {
             "count": 1,
-            "keyword": "6 триллиона"
+            "keyword": "даламан"
         },
         {
             "count": 1,
-            "keyword": "ликвидировали"
+            "keyword": "судебно-медицинская экспертиза"
         },
         {
             "count": 1,
-            "keyword": "майский"
+            "keyword": "новости"
         },
         {
             "count": 1,
-            "keyword": "технические средства"
+            "keyword": "требования"
         },
         {
             "count": 1,
-            "keyword": "причина"
+            "keyword": "парламент"
         },
         {
             "count": 1,
-            "keyword": "оперативный кризис"
+            "keyword": "риски"
         },
         {
             "count": 1,
-            "keyword": "органы"
+            "keyword": "мавзолей ленина"
         },
         {
             "count": 1,
-            "keyword": "лица старше 18"
+            "keyword": "представление"
         },
         {
             "count": 1,
-            "keyword": "полугодие"
+            "keyword": "беременности"
         },
         {
             "count": 1,
-            "keyword": "интернет-портал"
+            "keyword": "вражеские"
         },
         {
             "count": 1,
-            "keyword": "минцифры"
+            "keyword": "липецкая область"
         },
         {
             "count": 1,
-            "keyword": "многоквартирные дома"
+            "keyword": "сверхурочная работа"
         },
         {
             "count": 1,
-            "keyword": "легковой автомобиль"
+            "keyword": "вступил в силу"
         },
         {
             "count": 1,
-            "keyword": "отдых"
+            "keyword": "грязинский"
         },
         {
             "count": 1,
-            "keyword": "когалым"
+            "keyword": "простота"
         },
         {
             "count": 1,
-            "keyword": "последствия"
+            "keyword": "общественные эксперты"
         },
         {
             "count": 1,
-            "keyword": "2023 год"
+            "keyword": "25%"
         },
         {
             "count": 1,
-            "keyword": "аптечки"
+            "keyword": "работающие инвалиды"
         },
         {
             "count": 1,
-            "keyword": "возраст"
+            "keyword": "персонажи"
         },
         {
             "count": 1,
-            "keyword": "нефть"
+            "keyword": "муниципальный округ"
         },
         {
             "count": 1,
-            "keyword": "фронт"
+            "keyword": "белоусов"
         },
         {
             "count": 1,
-            "keyword": "государственные эксперты"
+            "keyword": "биоресурсы"
         },
         {
             "count": 1,
-            "keyword": "блок политических партий"
+            "keyword": "штрафы"
         },
         {
             "count": 1,
-            "keyword": "i группа"
+            "keyword": "ревакцинация"
         },
         {
             "count": 1,
-            "keyword": "автоэксперт"
+            "keyword": "минобрнауки"
         },
         {
             "count": 1,
-            "keyword": "прокуратура"
+            "keyword": "активное избирательное право"
         },
         {
             "count": 1,
-            "keyword": "территорию"
+            "keyword": "инициирование"
         },
         {
             "count": 1,
-            "keyword": "сделки"
+            "keyword": "ваз-2107"
         },
         {
             "count": 1,
-            "keyword": "недееспособные"
+            "keyword": "япония"
         },
         {
             "count": 1,
-            "keyword": "1939-1945"
+            "keyword": "бесплатно"
         },
         {
             "count": 1,
-            "keyword": "госуслуги"
+            "keyword": "уязвимые категории"
         },
         {
             "count": 1,
-            "keyword": "компенсационные выплаты"
+            "keyword": "31 августа"
         },
         {
             "count": 1,
-            "keyword": "банк россии"
+            "keyword": "жгут"
         },
         {
             "count": 1,
-            "keyword": "пожарные"
+            "keyword": "округа"
         },
         {
             "count": 1,
-            "keyword": "российская армия"
+            "keyword": "депутаты"
         },
         {
             "count": 1,
-            "keyword": "высадка"
+            "keyword": "необеспеченные"
         },
         {
             "count": 1,
-            "keyword": "стойкость"
+            "keyword": "сервис"
         },
         {
             "count": 1,
-            "keyword": "субъекты рф"
+            "keyword": "коммерческие объекты"
         },
         {
             "count": 1,
-            "keyword": "ядерное оружие"
+            "keyword": "стоимость"
         },
         {
             "count": 1,
-            "keyword": "семья"
-        },
-        {
-            "count": 1,
-            "keyword": "преимущество"
-        },
-        {
-            "count": 1,
-            "keyword": "контролируемый взрыв"
-        },
-        {
-            "count": 1,
-            "keyword": "пропажа"
-        },
-        {
-            "count": 1,
-            "keyword": "погибшие"
-        },
-        {
-            "count": 1,
-            "keyword": "героизм"
-        },
-        {
-            "count": 1,
-            "keyword": "оплачиваемый отпуск"
-        },
-        {
-            "count": 1,
-            "keyword": "локальный нормативный акт"
-        },
-        {
-            "count": 1,
-            "keyword": "апрель"
-        },
-        {
-            "count": 1,
-            "keyword": "усманский район"
-        },
-        {
-            "count": 1,
-            "keyword": "полная стоимость кредита"
-        },
-        {
-            "count": 1,
-            "keyword": "граждане 60 лет"
-        },
-        {
-            "count": 1,
-            "keyword": "итоги выборов"
-        },
-        {
-            "count": 1,
-            "keyword": "должностные лица"
-        },
-        {
-            "count": 1,
-            "keyword": "регионе"
-        },
-        {
-            "count": 1,
-            "keyword": "надбавка"
-        },
-        {
-            "count": 1,
-            "keyword": "код маркировки"
-        },
-        {
-            "count": 1,
-            "keyword": "обязательная"
-        },
-        {
-            "count": 1,
-            "keyword": "лондон"
-        },
-        {
-            "count": 1,
-            "keyword": "дата"
-        },
-        {
-            "count": 1,
-            "keyword": "доступ"
-        },
-        {
-            "count": 1,
-            "keyword": "контрактники"
-        },
-        {
-            "count": 1,
-            "keyword": "происшествие"
-        },
-        {
-            "count": 1,
-            "keyword": "южно-китайское море"
-        },
-        {
-            "count": 1,
-            "keyword": "иностранное производство"
-        },
-        {
-            "count": 1,
-            "keyword": "аппаратов"
-        },
-        {
-            "count": 1,
-            "keyword": "25-я гвардейская бригада"
-        },
-        {
-            "count": 1,
-            "keyword": "смерть"
-        },
-        {
-            "count": 1,
-            "keyword": "осколки"
-        },
-        {
-            "count": 1,
-            "keyword": "время отдыха"
-        },
-        {
-            "count": 1,
-            "keyword": "уголовное преследование"
-        },
-        {
-            "count": 1,
-            "keyword": "михаил черников"
-        },
-        {
-            "count": 1,
-            "keyword": "межведомственные комиссии"
-        },
-        {
-            "count": 1,
-            "keyword": "нелегальный рынок"
-        },
-        {
-            "count": 1,
-            "keyword": "пожарная служба"
-        },
-        {
-            "count": 1,
-            "keyword": "голосование"
-        },
-        {
-            "count": 1,
-            "keyword": "троллейбусы"
-        },
-        {
-            "count": 1,
-            "keyword": "5 тысячи"
-        },
-        {
-            "count": 1,
-            "keyword": "опубликованный"
-        },
-        {
-            "count": 1,
-            "keyword": "охрана окружающей среды"
-        },
-        {
-            "count": 1,
-            "keyword": "социально значимые"
-        },
-        {
-            "count": 1,
-            "keyword": "ресторан"
-        },
-        {
-            "count": 1,
-            "keyword": "справки"
-        },
-        {
-            "count": 1,
-            "keyword": "спасение людей"
-        },
-        {
-            "count": 1,
-            "keyword": "учредители"
-        },
-        {
-            "count": 1,
-            "keyword": "спасение"
-        },
-        {
-            "count": 1,
-            "keyword": "таможенные органы"
-        },
-        {
-            "count": 1,
-            "keyword": "тяжесть состояния"
-        },
-        {
-            "count": 1,
-            "keyword": "авдеевка"
-        },
-        {
-            "count": 1,
-            "keyword": "камчатка"
-        },
-        {
-            "count": 1,
-            "keyword": "судебный порядок"
-        },
-        {
-            "count": 1,
-            "keyword": "очередное"
-        },
-        {
-            "count": 1,
-            "keyword": "вылет"
-        },
-        {
-            "count": 1,
-            "keyword": "кукольные спектакли"
-        },
-        {
-            "count": 1,
-            "keyword": "изменение"
-        },
-        {
-            "count": 1,
-            "keyword": "реализация"
-        },
-        {
-            "count": 1,
-            "keyword": "турбизнес"
-        },
-        {
-            "count": 1,
-            "keyword": "парк"
-        },
-        {
-            "count": 1,
-            "keyword": "сватово"
-        },
-        {
-            "count": 1,
-            "keyword": "спратли"
-        },
-        {
-            "count": 1,
-            "keyword": "кандидаты"
-        },
-        {
-            "count": 1,
-            "keyword": "дождь"
-        },
-        {
-            "count": 1,
-            "keyword": "европа"
-        },
-        {
-            "count": 1,
-            "keyword": "контроль"
-        },
-        {
-            "count": 1,
-            "keyword": "документ"
-        },
-        {
-            "count": 1,
-            "keyword": "регистрация"
-        },
-        {
-            "count": 1,
-            "keyword": "формирование"
-        },
-        {
-            "count": 1,
-            "keyword": "автомобильная аптечка"
-        },
-        {
-            "count": 1,
-            "keyword": "генконсульство"
-        },
-        {
-            "count": 1,
-            "keyword": "1 января 2030"
-        },
-        {
-            "count": 1,
-            "keyword": "продажа"
-        },
-        {
-            "count": 1,
-            "keyword": "три ребенка"
-        },
-        {
-            "count": 1,
-            "keyword": "музыка"
-        },
-        {
-            "count": 1,
-            "keyword": "восток"
-        },
-        {
-            "count": 1,
-            "keyword": "генштаб"
-        },
-        {
-            "count": 1,
-            "keyword": "усманский"
-        },
-        {
-            "count": 1,
-            "keyword": "травмы"
-        },
-        {
-            "count": 1,
-            "keyword": "боевые задачи"
-        },
-        {
-            "count": 1,
-            "keyword": "утилитарность"
-        },
-        {
-            "count": 1,
-            "keyword": "валютные операции"
-        },
-        {
-            "count": 1,
-            "keyword": "суд в гааге"
+            "keyword": "реликт"
         },
         {
             "count": 1,
@@ -2638,31 +2278,59 @@
         },
         {
             "count": 1,
-            "keyword": "премия"
+            "keyword": "малыши!"
         },
         {
             "count": 1,
-            "keyword": "вячеслав гладков"
+            "keyword": "кукольные спектакли"
         },
         {
             "count": 1,
-            "keyword": "призыв"
+            "keyword": "судебный порядок"
         },
         {
             "count": 1,
-            "keyword": "вконтакте"
+            "keyword": "троллейбусы"
         },
         {
             "count": 1,
-            "keyword": "филиппины"
+            "keyword": "пропажа"
         },
         {
             "count": 1,
-            "keyword": "сценарий"
+            "keyword": "итоги выборов"
         },
         {
             "count": 1,
-            "keyword": "пилотный проект"
+            "keyword": "изменение"
+        },
+        {
+            "count": 1,
+            "keyword": "восток"
+        },
+        {
+            "count": 1,
+            "keyword": "недееспособные"
+        },
+        {
+            "count": 1,
+            "keyword": "генконсульство"
+        },
+        {
+            "count": 1,
+            "keyword": "банк россии"
+        },
+        {
+            "count": 1,
+            "keyword": "лондон"
+        },
+        {
+            "count": 1,
+            "keyword": "мчс россии"
+        },
+        {
+            "count": 1,
+            "keyword": "музыка"
         },
         {
             "count": 1,
@@ -2670,23 +2338,27 @@
         },
         {
             "count": 1,
-            "keyword": "оплата"
+            "keyword": "сокращение"
         },
         {
             "count": 1,
-            "keyword": "ограничение"
+            "keyword": "погибшие"
         },
         {
             "count": 1,
-            "keyword": "населенный пункт"
+            "keyword": "спратли"
         },
         {
             "count": 1,
-            "keyword": "российская радиоэлектронная продукция"
+            "keyword": "травмы"
         },
         {
             "count": 1,
-            "keyword": "автоколенчатый подъемник"
+            "keyword": "мобильные средства"
+        },
+        {
+            "count": 1,
+            "keyword": "пожарная служба"
         },
         {
             "count": 1,
@@ -2694,175 +2366,11 @@
         },
         {
             "count": 1,
-            "keyword": "метрологическая проверка"
+            "keyword": "время отдыха"
         },
         {
             "count": 1,
-            "keyword": "советский автомобиль"
-        },
-        {
-            "count": 1,
-            "keyword": "легальный рынок"
-        },
-        {
-            "count": 1,
-            "keyword": "грязинский район"
-        },
-        {
-            "count": 1,
-            "keyword": "сертификация"
-        },
-        {
-            "count": 1,
-            "keyword": "дороги"
-        },
-        {
-            "count": 1,
-            "keyword": "критическая информационная инфраструктура"
-        },
-        {
-            "count": 1,
-            "keyword": "малыши!"
-        },
-        {
-            "count": 1,
-            "keyword": "многоквартирный дом"
-        },
-        {
-            "count": 1,
-            "keyword": "полный переход"
-        },
-        {
-            "count": 1,
-            "keyword": "governor"
-        },
-        {
-            "count": 1,
-            "keyword": "срок годности"
-        },
-        {
-            "count": 1,
-            "keyword": "ереван"
-        },
-        {
-            "count": 1,
-            "keyword": "руководство"
-        },
-        {
-            "count": 1,
-            "keyword": "scalp"
-        },
-        {
-            "count": 1,
-            "keyword": "исключение"
-        },
-        {
-            "count": 1,
-            "keyword": "военные сборы"
-        },
-        {
-            "count": 1,
-            "keyword": "юридические лица"
-        },
-        {
-            "count": 1,
-            "keyword": "программно-аппаратные комплексы"
-        },
-        {
-            "count": 1,
-            "keyword": "лишенные"
-        },
-        {
-            "count": 1,
-            "keyword": "льготный"
-        },
-        {
-            "count": 1,
-            "keyword": "стимулирующие"
-        },
-        {
-            "count": 1,
-            "keyword": "ножницы"
-        },
-        {
-            "count": 1,
-            "keyword": "аттестация экспертов"
-        },
-        {
-            "count": 1,
-            "keyword": "турция"
-        },
-        {
-            "count": 1,
-            "keyword": "съемочная площадка"
-        },
-        {
-            "count": 1,
-            "keyword": "советская эпоха"
-        },
-        {
-            "count": 1,
-            "keyword": "вулкан вачкажец"
-        },
-        {
-            "count": 1,
-            "keyword": "режим"
-        },
-        {
-            "count": 1,
-            "keyword": "промышленная зона"
-        },
-        {
-            "count": 1,
-            "keyword": "1 сентября 2024"
-        },
-        {
-            "count": 1,
-            "keyword": "снаряды"
-        },
-        {
-            "count": 1,
-            "keyword": "некрополь"
-        },
-        {
-            "count": 1,
-            "keyword": "высшее образование"
-        },
-        {
-            "count": 1,
-            "keyword": "расписание"
-        },
-        {
-            "count": 1,
-            "keyword": "ссср"
-        },
-        {
-            "count": 1,
-            "keyword": "туман"
-        },
-        {
-            "count": 1,
-            "keyword": "подавлено"
-        },
-        {
-            "count": 1,
-            "keyword": "коллекторские фирмы"
-        },
-        {
-            "count": 1,
-            "keyword": "среднемесячная зарплата"
-        },
-        {
-            "count": 1,
-            "keyword": "данные"
-        },
-        {
-            "count": 1,
-            "keyword": "туроператоры"
-        },
-        {
-            "count": 1,
-            "keyword": "семь человек"
+            "keyword": "сделки"
         },
         {
             "count": 1,
@@ -2870,39 +2378,35 @@
         },
         {
             "count": 1,
-            "keyword": "незаполнение"
-        },
-        {
-            "count": 1,
-            "keyword": "туристский продукт"
-        },
-        {
-            "count": 1,
-            "keyword": "силы пво"
-        },
-        {
-            "count": 1,
             "keyword": "мобилизационный резерв"
         },
         {
             "count": 1,
-            "keyword": "перехватывают"
+            "keyword": "происшествие"
         },
         {
             "count": 1,
-            "keyword": "аварийность"
+            "keyword": "апрель"
         },
         {
             "count": 1,
-            "keyword": "оборона"
+            "keyword": "должностные лица"
         },
         {
             "count": 1,
-            "keyword": "буфер"
+            "keyword": "стойкость"
         },
         {
             "count": 1,
-            "keyword": "награды"
+            "keyword": "многоквартирный дом"
+        },
+        {
+            "count": 1,
+            "keyword": "пожарные"
+        },
+        {
+            "count": 1,
+            "keyword": "лишенные"
         },
         {
             "count": 1,
@@ -2910,11 +2414,415 @@
         },
         {
             "count": 1,
+            "keyword": "социально значимые"
+        },
+        {
+            "count": 1,
+            "keyword": "генштаб"
+        },
+        {
+            "count": 1,
+            "keyword": "автоколенчатый подъемник"
+        },
+        {
+            "count": 1,
+            "keyword": "силы пво"
+        },
+        {
+            "count": 1,
+            "keyword": "регионе"
+        },
+        {
+            "count": 1,
+            "keyword": "scalp"
+        },
+        {
+            "count": 1,
+            "keyword": "льготный"
+        },
+        {
+            "count": 1,
+            "keyword": "governor"
+        },
+        {
+            "count": 1,
+            "keyword": "авдеевка"
+        },
+        {
+            "count": 1,
+            "keyword": "метрологическая проверка"
+        },
+        {
+            "count": 1,
+            "keyword": "некрополь"
+        },
+        {
+            "count": 1,
+            "keyword": "боевые задачи"
+        },
+        {
+            "count": 1,
+            "keyword": "аварийность"
+        },
+        {
+            "count": 1,
+            "keyword": "регистрация"
+        },
+        {
+            "count": 1,
+            "keyword": "код маркировки"
+        },
+        {
+            "count": 1,
+            "keyword": "формирование"
+        },
+        {
+            "count": 1,
+            "keyword": "программно-аппаратные комплексы"
+        },
+        {
+            "count": 1,
+            "keyword": "1 сентября 2024"
+        },
+        {
+            "count": 1,
+            "keyword": "спасение людей"
+        },
+        {
+            "count": 1,
+            "keyword": "граждане 60 лет"
+        },
+        {
+            "count": 1,
+            "keyword": "компенсационные выплаты"
+        },
+        {
+            "count": 1,
+            "keyword": "таможенные органы"
+        },
+        {
+            "count": 1,
+            "keyword": "смерть"
+        },
+        {
+            "count": 1,
+            "keyword": "справки"
+        },
+        {
+            "count": 1,
+            "keyword": "российская армия"
+        },
+        {
+            "count": 1,
+            "keyword": "тяжесть состояния"
+        },
+        {
+            "count": 1,
+            "keyword": "вконтакте"
+        },
+        {
+            "count": 1,
+            "keyword": "документ"
+        },
+        {
+            "count": 1,
+            "keyword": "субъекты рф"
+        },
+        {
+            "count": 1,
+            "keyword": "перехватывают"
+        },
+        {
+            "count": 1,
+            "keyword": "аттестация экспертов"
+        },
+        {
+            "count": 1,
+            "keyword": "куклы"
+        },
+        {
+            "count": 1,
+            "keyword": "полная стоимость кредита"
+        },
+        {
+            "count": 1,
+            "keyword": "территорию"
+        },
+        {
+            "count": 1,
+            "keyword": "пилотный проект"
+        },
+        {
+            "count": 1,
+            "keyword": "филиппины"
+        },
+        {
+            "count": 1,
+            "keyword": "съемочная площадка"
+        },
+        {
+            "count": 1,
+            "keyword": "высадка"
+        },
+        {
+            "count": 1,
+            "keyword": "запланированные съемки"
+        },
+        {
+            "count": 1,
+            "keyword": "легальный рынок"
+        },
+        {
+            "count": 1,
+            "keyword": "уголовное преследование"
+        },
+        {
+            "count": 1,
+            "keyword": "сертификация"
+        },
+        {
+            "count": 1,
+            "keyword": "ядерное оружие"
+        },
+        {
+            "count": 1,
+            "keyword": "советская эпоха"
+        },
+        {
+            "count": 1,
+            "keyword": "второе полугодие"
+        },
+        {
+            "count": 1,
+            "keyword": "данные"
+        },
+        {
+            "count": 1,
+            "keyword": "премия"
+        },
+        {
+            "count": 1,
+            "keyword": "населенный пункт"
+        },
+        {
+            "count": 1,
+            "keyword": "нагреваемый табак"
+        },
+        {
+            "count": 1,
+            "keyword": "продажа"
+        },
+        {
+            "count": 1,
+            "keyword": "контрактники"
+        },
+        {
+            "count": 1,
+            "keyword": "михаил черников"
+        },
+        {
+            "count": 1,
+            "keyword": "дождь"
+        },
+        {
+            "count": 1,
+            "keyword": "надбавка"
+        },
+        {
+            "count": 1,
+            "keyword": "буфер"
+        },
+        {
+            "count": 1,
+            "keyword": "туман"
+        },
+        {
+            "count": 1,
+            "keyword": "режим"
+        },
+        {
+            "count": 1,
+            "keyword": "вулкан вачкажец"
+        },
+        {
+            "count": 1,
+            "keyword": "переход"
+        },
+        {
+            "count": 1,
+            "keyword": "ресторан"
+        },
+        {
+            "count": 1,
+            "keyword": "вылет"
+        },
+        {
+            "count": 1,
+            "keyword": "нелегальный рынок"
+        },
+        {
+            "count": 1,
+            "keyword": "daily mail"
+        },
+        {
+            "count": 1,
+            "keyword": "оплачиваемый отпуск"
+        },
+        {
+            "count": 1,
+            "keyword": "три ребенка"
+        },
+        {
+            "count": 1,
+            "keyword": "незаполнение"
+        },
+        {
+            "count": 1,
+            "keyword": "волонтеры"
+        },
+        {
+            "count": 1,
+            "keyword": "охрана окружающей среды"
+        },
+        {
+            "count": 1,
+            "keyword": "руководство"
+        },
+        {
+            "count": 1,
+            "keyword": "доступ"
+        },
+        {
+            "count": 1,
+            "keyword": "стимулирующие"
+        },
+        {
+            "count": 1,
+            "keyword": "суд в гааге"
+        },
+        {
+            "count": 1,
+            "keyword": "полный переход"
+        },
+        {
+            "count": 1,
+            "keyword": "опубликованный"
+        },
+        {
+            "count": 1,
+            "keyword": "кандидаты"
+        },
+        {
+            "count": 1,
+            "keyword": "высшее образование"
+        },
+        {
+            "count": 1,
+            "keyword": "автомобильная аптечка"
+        },
+        {
+            "count": 1,
+            "keyword": "сватово"
+        },
+        {
+            "count": 1,
+            "keyword": "осколки"
+        },
+        {
+            "count": 1,
+            "keyword": "ограничение"
+        },
+        {
+            "count": 1,
+            "keyword": "российская радиоэлектронная продукция"
+        },
+        {
+            "count": 1,
+            "keyword": "ссср"
+        },
+        {
+            "count": 1,
+            "keyword": "награды"
+        },
+        {
+            "count": 1,
+            "keyword": "спасение"
+        },
+        {
+            "count": 1,
+            "keyword": "туристский продукт"
+        },
+        {
+            "count": 1,
+            "keyword": "срок годности"
+        },
+        {
+            "count": 1,
+            "keyword": "военные сборы"
+        },
+        {
+            "count": 1,
+            "keyword": "турция"
+        },
+        {
+            "count": 1,
+            "keyword": "ереван"
+        },
+        {
+            "count": 1,
+            "keyword": "иностранное производство"
+        },
+        {
+            "count": 1,
             "keyword": "милитаризм"
         },
         {
             "count": 1,
-            "keyword": "сильвертаун"
+            "keyword": "25-я гвардейская бригада"
+        },
+        {
+            "count": 1,
+            "keyword": "усманский район"
+        },
+        {
+            "count": 1,
+            "keyword": "семь человек"
+        },
+        {
+            "count": 1,
+            "keyword": "валютные операции"
+        },
+        {
+            "count": 1,
+            "keyword": "контроль"
+        },
+        {
+            "count": 1,
+            "keyword": "исключение"
+        },
+        {
+            "count": 1,
+            "keyword": "парк"
+        },
+        {
+            "count": 1,
+            "keyword": "1939-1945"
+        },
+        {
+            "count": 1,
+            "keyword": "1 января 2030"
+        },
+        {
+            "count": 1,
+            "keyword": "воронежская область"
+        },
+        {
+            "count": 1,
+            "keyword": "сюжеты"
+        },
+        {
+            "count": 1,
+            "keyword": "госуслуги"
         },
         {
             "count": 1,
@@ -2922,11 +2830,103 @@
         },
         {
             "count": 1,
-            "keyword": "колыбельная"
+            "keyword": "грязинский район"
+        },
+        {
+            "count": 1,
+            "keyword": "ножницы"
+        },
+        {
+            "count": 1,
+            "keyword": "критическая информационная инфраструктура"
+        },
+        {
+            "count": 1,
+            "keyword": "советский автомобиль"
+        },
+        {
+            "count": 1,
+            "keyword": "контролируемый взрыв"
+        },
+        {
+            "count": 1,
+            "keyword": "оборона"
+        },
+        {
+            "count": 1,
+            "keyword": "усманский"
+        },
+        {
+            "count": 1,
+            "keyword": "европа"
+        },
+        {
+            "count": 1,
+            "keyword": "героизм"
+        },
+        {
+            "count": 1,
+            "keyword": "5 тысячи"
         },
         {
             "count": 1,
             "keyword": "хозпостройка"
+        },
+        {
+            "count": 1,
+            "keyword": "оплата"
+        },
+        {
+            "count": 1,
+            "keyword": "сценарий"
+        },
+        {
+            "count": 1,
+            "keyword": "южно-китайское море"
+        },
+        {
+            "count": 1,
+            "keyword": "преимущество"
+        },
+        {
+            "count": 1,
+            "keyword": "колыбельная"
+        },
+        {
+            "count": 1,
+            "keyword": "очередное"
+        },
+        {
+            "count": 1,
+            "keyword": "туроператоры"
+        },
+        {
+            "count": 1,
+            "keyword": "вячеслав гладков"
+        },
+        {
+            "count": 1,
+            "keyword": "промышленная зона"
+        },
+        {
+            "count": 1,
+            "keyword": "среднемесячная зарплата"
+        },
+        {
+            "count": 1,
+            "keyword": "межведомственные комиссии"
+        },
+        {
+            "count": 1,
+            "keyword": "призыв"
+        },
+        {
+            "count": 1,
+            "keyword": "локальный нормативный акт"
+        },
+        {
+            "count": 1,
+            "keyword": "расписание"
         }
     ]
 }

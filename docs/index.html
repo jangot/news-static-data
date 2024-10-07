@@ -41,8 +41,11 @@
                 if (!response.ok) {
                     throw new Error(`File [${day}] was not loaded: ${ response.statusText}`);
                 }
+                return response.json();
+            })
+            .then((data) => {
                 return {
-                    data: response.json(),
+                    data,
                     link: dataForDayUrl
                 };
             })

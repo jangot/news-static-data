@@ -1,0 +1,36 @@
+<div class="input-group mb-3">
+    <span class="input-group-text">From</span>
+    <input type="date" class="form-control" id="date-start" aria-describedby="startDate">
+    <span class="input-group-text">To</span>
+    <input type="date" class="form-control" id="date-end" aria-describedby="endDate">
+    <button type="button" class="btn btn-primary" id="apply-filter">Show</button>
+</div>
+<script>
+    $(() => {
+        const currentState = new URLSearchParams(window.location.search);
+        if (currentState.has('from')) {
+            $('#date-start').val(currentState.get('from'));
+        }
+        if (currentState.has('to')) {
+            $('#date-end').val(currentState.get('to'));
+        }
+
+        $('#apply-filter').click(() => {
+            const start = $('#date-start').val();
+            const end = $('#date-end').val();
+            if (!start && !end) {
+                return;
+            }
+
+            const search = new URLSearchParams();
+            if (start) {
+                search.set('from', start);
+            }
+            if (end) {
+                search.set('to', end);
+            }
+
+            window.location.href = window.location.pathname + '?' + search.toString();
+        });
+    });
+</script>

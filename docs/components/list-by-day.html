@@ -1,0 +1,31 @@
+<div class="days-container"></div>
+<script>
+    const container = $('.days-container');
+    window.addEventListener(EVENT.KEYWORDS_LOADED, function({ detail: { day, list } }) {
+        if (list) {
+            const html = list.data.keywords.map((keyword, index) => {
+                if (isLimit(keyword, index)) {
+                    return '';
+                }
+                return `
+                        <li class="list-group-item d-flex justify-content-between align-items-start">
+                            <div>
+                                <a class="material-icons" href="https://www.google.com/search?q=${keyword.keyword}+${day}+новости" target="_blank">search</a>
+                                ${keyword.keyword}
+                            </div>
+                            <span class="badge bg-primary rounded-pill">${keyword.count}</span>
+                        </li>
+                        `;
+            });
+            container.append(`
+                    <div class="day-item">
+                        <h3>
+                            ${day}
+                            <a class="material-icons" href="${list.link}" target="_blank">description</a>
+                        </h3>
+                        <ul class="list-group">${html.join('')}</ul>
+                    </div>
+                `);
+        }
+    });
+</script>

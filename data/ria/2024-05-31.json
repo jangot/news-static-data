@@ -1,0 +1,1956 @@
+{
+    "keywords": [
+        {
+            "count": 13,
+            "keyword": "безопасность"
+        },
+        {
+            "count": 9,
+            "keyword": "удары"
+        },
+        {
+            "count": 9,
+            "keyword": "украина"
+        },
+        {
+            "count": 7,
+            "keyword": "россия"
+        },
+        {
+            "count": 5,
+            "keyword": "взрывы"
+        },
+        {
+            "count": 5,
+            "keyword": "всу"
+        },
+        {
+            "count": 4,
+            "keyword": "решение"
+        },
+        {
+            "count": 4,
+            "keyword": "ограничения"
+        },
+        {
+            "count": 4,
+            "keyword": "обстрелы"
+        },
+        {
+            "count": 4,
+            "keyword": "дети"
+        },
+        {
+            "count": 4,
+            "keyword": "оборона"
+        },
+        {
+            "count": 4,
+            "keyword": "белгород"
+        },
+        {
+            "count": 4,
+            "keyword": "ракетная опасность"
+        },
+        {
+            "count": 4,
+            "keyword": "харьков"
+        },
+        {
+            "count": 4,
+            "keyword": "информация"
+        },
+        {
+            "count": 4,
+            "keyword": "москва"
+        },
+        {
+            "count": 4,
+            "keyword": "инфраструктура"
+        },
+        {
+            "count": 3,
+            "keyword": "диверсии"
+        },
+        {
+            "count": 3,
+            "keyword": "спецслужбы"
+        },
+        {
+            "count": 3,
+            "keyword": "байден"
+        },
+        {
+            "count": 3,
+            "keyword": "оружие"
+        },
+        {
+            "count": 3,
+            "keyword": "рекомендации"
+        },
+        {
+            "count": 3,
+            "keyword": "киев"
+        },
+        {
+            "count": 3,
+            "keyword": "территория"
+        },
+        {
+            "count": 3,
+            "keyword": "газ"
+        },
+        {
+            "count": 3,
+            "keyword": "тревога"
+        },
+        {
+            "count": 3,
+            "keyword": "конфликт"
+        },
+        {
+            "count": 3,
+            "keyword": "санкции"
+        },
+        {
+            "count": 3,
+            "keyword": "финансирование"
+        },
+        {
+            "count": 3,
+            "keyword": "нато"
+        },
+        {
+            "count": 3,
+            "keyword": "помощь"
+        },
+        {
+            "count": 3,
+            "keyword": "крымский мост"
+        },
+        {
+            "count": 3,
+            "keyword": "последствия"
+        },
+        {
+            "count": 3,
+            "keyword": "сирена"
+        },
+        {
+            "count": 3,
+            "keyword": "воздушная тревога"
+        },
+        {
+            "count": 3,
+            "keyword": "жители"
+        },
+        {
+            "count": 3,
+            "keyword": "сообщения"
+        },
+        {
+            "count": 3,
+            "keyword": "энергетика"
+        },
+        {
+            "count": 2,
+            "keyword": "коммуникации"
+        },
+        {
+            "count": 2,
+            "keyword": "мир"
+        },
+        {
+            "count": 2,
+            "keyword": "запрет"
+        },
+        {
+            "count": 2,
+            "keyword": "днр"
+        },
+        {
+            "count": 2,
+            "keyword": "военные действия"
+        },
+        {
+            "count": 2,
+            "keyword": "боевые действия"
+        },
+        {
+            "count": 2,
+            "keyword": "контрбатарейная борьба"
+        },
+        {
+            "count": 2,
+            "keyword": "контроль"
+        },
+        {
+            "count": 2,
+            "keyword": "беспилотники"
+        },
+        {
+            "count": 2,
+            "keyword": "экономика"
+        },
+        {
+            "count": 2,
+            "keyword": "корреспондент"
+        },
+        {
+            "count": 2,
+            "keyword": "населенные пункты"
+        },
+        {
+            "count": 2,
+            "keyword": "красная армия"
+        },
+        {
+            "count": 2,
+            "keyword": "выплаты"
+        },
+        {
+            "count": 2,
+            "keyword": "вода"
+        },
+        {
+            "count": 2,
+            "keyword": "военная помощь"
+        },
+        {
+            "count": 2,
+            "keyword": "проект"
+        },
+        {
+            "count": 2,
+            "keyword": "свет"
+        },
+        {
+            "count": 2,
+            "keyword": "изменения"
+        },
+        {
+            "count": 2,
+            "keyword": "путин"
+        },
+        {
+            "count": 2,
+            "keyword": "хамас"
+        },
+        {
+            "count": 2,
+            "keyword": "сша"
+        },
+        {
+            "count": 2,
+            "keyword": "крым"
+        },
+        {
+            "count": 2,
+            "keyword": "харьковская область"
+        },
+        {
+            "count": 2,
+            "keyword": "прогнозы"
+        },
+        {
+            "count": 2,
+            "keyword": "ес"
+        },
+        {
+            "count": 2,
+            "keyword": "закон"
+        },
+        {
+            "count": 2,
+            "keyword": "постановление"
+        },
+        {
+            "count": 2,
+            "keyword": "пострадавшие"
+        },
+        {
+            "count": 2,
+            "keyword": "интенсивность"
+        },
+        {
+            "count": 2,
+            "keyword": "заболевания"
+        },
+        {
+            "count": 2,
+            "keyword": "белгородская область"
+        },
+        {
+            "count": 2,
+            "keyword": "ситуация"
+        },
+        {
+            "count": 2,
+            "keyword": "заложники"
+        },
+        {
+            "count": 2,
+            "keyword": "вс рф"
+        },
+        {
+            "count": 2,
+            "keyword": "ликвидация"
+        },
+        {
+            "count": 2,
+            "keyword": "регионы"
+        },
+        {
+            "count": 2,
+            "keyword": "предупреждение"
+        },
+        {
+            "count": 2,
+            "keyword": "вячеслав гладков"
+        },
+        {
+            "count": 2,
+            "keyword": "предупреждения"
+        },
+        {
+            "count": 2,
+            "keyword": "теракт"
+        },
+        {
+            "count": 2,
+            "keyword": "звуки"
+        },
+        {
+            "count": 2,
+            "keyword": "этапы"
+        },
+        {
+            "count": 2,
+            "keyword": "военное управление"
+        },
+        {
+            "count": 2,
+            "keyword": "губернатор"
+        },
+        {
+            "count": 2,
+            "keyword": "пентагон"
+        },
+        {
+            "count": 2,
+            "keyword": "переговоры"
+        },
+        {
+            "count": 2,
+            "keyword": "гуманитарная помощь"
+        },
+        {
+            "count": 2,
+            "keyword": "прекращение огня"
+        },
+        {
+            "count": 2,
+            "keyword": "столтенберг"
+        },
+        {
+            "count": 2,
+            "keyword": "блинкен"
+        },
+        {
+            "count": 2,
+            "keyword": "российские войска"
+        },
+        {
+            "count": 2,
+            "keyword": "зеленский"
+        },
+        {
+            "count": 1,
+            "keyword": "дмитрий липинский"
+        },
+        {
+            "count": 1,
+            "keyword": "доклад"
+        },
+        {
+            "count": 1,
+            "keyword": "долги"
+        },
+        {
+            "count": 1,
+            "keyword": "долгосрочный мир"
+        },
+        {
+            "count": 1,
+            "keyword": "донецк"
+        },
+        {
+            "count": 1,
+            "keyword": "донецкая народная республика"
+        },
+        {
+            "count": 1,
+            "keyword": "доход"
+        },
+        {
+            "count": 1,
+            "keyword": "думская"
+        },
+        {
+            "count": 1,
+            "keyword": "духовность"
+        },
+        {
+            "count": 1,
+            "keyword": "еаэс"
+        },
+        {
+            "count": 1,
+            "keyword": "ежегодная выплата"
+        },
+        {
+            "count": 1,
+            "keyword": "жизнь"
+        },
+        {
+            "count": 1,
+            "keyword": "жилые дома"
+        },
+        {
+            "count": 1,
+            "keyword": "жилье"
+        },
+        {
+            "count": 1,
+            "keyword": "жиры"
+        },
+        {
+            "count": 1,
+            "keyword": "жку"
+        },
+        {
+            "count": 1,
+            "keyword": "жюри присяжных"
+        },
+        {
+            "count": 1,
+            "keyword": "завершение"
+        },
+        {
+            "count": 1,
+            "keyword": "закаливание"
+        },
+        {
+            "count": 1,
+            "keyword": "законопроект"
+        },
+        {
+            "count": 1,
+            "keyword": "законы"
+        },
+        {
+            "count": 1,
+            "keyword": "закупка"
+        },
+        {
+            "count": 1,
+            "keyword": "запад"
+        },
+        {
+            "count": 1,
+            "keyword": "защита"
+        },
+        {
+            "count": 1,
+            "keyword": "защитные сооружения"
+        },
+        {
+            "count": 1,
+            "keyword": "заявления"
+        },
+        {
+            "count": 1,
+            "keyword": "здания"
+        },
+        {
+            "count": 1,
+            "keyword": "здоровье"
+        },
+        {
+            "count": 1,
+            "keyword": "здравоохранение"
+        },
+        {
+            "count": 1,
+            "keyword": "зимняя резина"
+        },
+        {
+            "count": 1,
+            "keyword": "игровые сообщества"
+        },
+        {
+            "count": 1,
+            "keyword": "известность"
+        },
+        {
+            "count": 1,
+            "keyword": "изменение"
+        },
+        {
+            "count": 1,
+            "keyword": "израиль"
+        },
+        {
+            "count": 1,
+            "keyword": "израильские войска"
+        },
+        {
+            "count": 1,
+            "keyword": "изъятие паспорта"
+        },
+        {
+            "count": 1,
+            "keyword": "импорт"
+        },
+        {
+            "count": 1,
+            "keyword": "ингредиенты"
+        },
+        {
+            "count": 1,
+            "keyword": "инициатива"
+        },
+        {
+            "count": 1,
+            "keyword": "инициативы"
+        },
+        {
+            "count": 1,
+            "keyword": "иностранцы"
+        },
+        {
+            "count": 1,
+            "keyword": "интернет"
+        },
+        {
+            "count": 1,
+            "keyword": "инфекционные болезни"
+        },
+        {
+            "count": 1,
+            "keyword": "инфляция"
+        },
+        {
+            "count": 1,
+            "keyword": "исполнительный совет"
+        },
+        {
+            "count": 1,
+            "keyword": "использование"
+        },
+        {
+            "count": 1,
+            "keyword": "историческая память"
+        },
+        {
+            "count": 1,
+            "keyword": "источники"
+        },
+        {
+            "count": 1,
+            "keyword": "иудея"
+        },
+        {
+            "count": 1,
+            "keyword": "кандидаты"
+        },
+        {
+            "count": 1,
+            "keyword": "карта"
+        },
+        {
+            "count": 1,
+            "keyword": "карьера"
+        },
+        {
+            "count": 1,
+            "keyword": "категории транспортных средств"
+        },
+        {
+            "count": 1,
+            "keyword": "кибербезопасность"
+        },
+        {
+            "count": 1,
+            "keyword": "кировоград"
+        },
+        {
+            "count": 1,
+            "keyword": "коап рф"
+        },
+        {
+            "count": 1,
+            "keyword": "количественные критерии"
+        },
+        {
+            "count": 1,
+            "keyword": "количество мест"
+        },
+        {
+            "count": 1,
+            "keyword": "комментарий стефана дюжаррика"
+        },
+        {
+            "count": 1,
+            "keyword": "компоты"
+        },
+        {
+            "count": 1,
+            "keyword": "конструкций"
+        },
+        {
+            "count": 1,
+            "keyword": "контрразведка"
+        },
+        {
+            "count": 1,
+            "keyword": "кризис"
+        },
+        {
+            "count": 1,
+            "keyword": "критика"
+        },
+        {
+            "count": 1,
+            "keyword": "кулеба"
+        },
+        {
+            "count": 1,
+            "keyword": "куликовская битва"
+        },
+        {
+            "count": 1,
+            "keyword": "купальный сезон"
+        },
+        {
+            "count": 1,
+            "keyword": "летний запрет"
+        },
+        {
+            "count": 1,
+            "keyword": "лето"
+        },
+        {
+            "count": 1,
+            "keyword": "линия электропередачи"
+        },
+        {
+            "count": 1,
+            "keyword": "личный состав"
+        },
+        {
+            "count": 1,
+            "keyword": "локализация"
+        },
+        {
+            "count": 1,
+            "keyword": "люсиновская улица"
+        },
+        {
+            "count": 1,
+            "keyword": "маркировка"
+        },
+        {
+            "count": 1,
+            "keyword": "мвф"
+        },
+        {
+            "count": 1,
+            "keyword": "международная политика"
+        },
+        {
+            "count": 1,
+            "keyword": "международные отношения"
+        },
+        {
+            "count": 1,
+            "keyword": "международный валютный фонд"
+        },
+        {
+            "count": 1,
+            "keyword": "меры"
+        },
+        {
+            "count": 1,
+            "keyword": "местные новости"
+        },
+        {
+            "count": 1,
+            "keyword": "местом рождения"
+        },
+        {
+            "count": 1,
+            "keyword": "министерство обороны"
+        },
+        {
+            "count": 1,
+            "keyword": "министр"
+        },
+        {
+            "count": 1,
+            "keyword": "министр иностранных дел"
+        },
+        {
+            "count": 1,
+            "keyword": "министр обороны"
+        },
+        {
+            "count": 1,
+            "keyword": "мирные жители"
+        },
+        {
+            "count": 1,
+            "keyword": "мирный процесс"
+        },
+        {
+            "count": 1,
+            "keyword": "мнение"
+        },
+        {
+            "count": 1,
+            "keyword": "мобилизация"
+        },
+        {
+            "count": 1,
+            "keyword": "мобильные убежища"
+        },
+        {
+            "count": 1,
+            "keyword": "молитва"
+        },
+        {
+            "count": 1,
+            "keyword": "мониторинг"
+        },
+        {
+            "count": 1,
+            "keyword": "мороженое"
+        },
+        {
+            "count": 1,
+            "keyword": "московский театр"
+        },
+        {
+            "count": 1,
+            "keyword": "мошенники"
+        },
+        {
+            "count": 1,
+            "keyword": "мэрия"
+        },
+        {
+            "count": 1,
+            "keyword": "налаживание"
+        },
+        {
+            "count": 1,
+            "keyword": "налоговая база"
+        },
+        {
+            "count": 1,
+            "keyword": "налоговое администрирование"
+        },
+        {
+            "count": 1,
+            "keyword": "налоговый кодекс"
+        },
+        {
+            "count": 1,
+            "keyword": "нападения"
+        },
+        {
+            "count": 1,
+            "keyword": "население"
+        },
+        {
+            "count": 1,
+            "keyword": "настройки приватности"
+        },
+        {
+            "count": 1,
+            "keyword": "наступление"
+        },
+        {
+            "count": 1,
+            "keyword": "небесные покровители"
+        },
+        {
+            "count": 1,
+            "keyword": "нектары"
+        },
+        {
+            "count": 1,
+            "keyword": "немецкая разведка"
+        },
+        {
+            "count": 1,
+            "keyword": "несоответствие"
+        },
+        {
+            "count": 1,
+            "keyword": "николаевка"
+        },
+        {
+            "count": 1,
+            "keyword": "новая таволжанка"
+        },
+        {
+            "count": 1,
+            "keyword": "нововведения"
+        },
+        {
+            "count": 1,
+            "keyword": "ночное время"
+        },
+        {
+            "count": 1,
+            "keyword": "обвинения"
+        },
+        {
+            "count": 1,
+            "keyword": "области"
+        },
+        {
+            "count": 1,
+            "keyword": "обстановка"
+        },
+        {
+            "count": 1,
+            "keyword": "обстрел"
+        },
+        {
+            "count": 1,
+            "keyword": "обсуждение"
+        },
+        {
+            "count": 1,
+            "keyword": "обучение"
+        },
+        {
+            "count": 1,
+            "keyword": "общественное"
+        },
+        {
+            "count": 1,
+            "keyword": "обязательная маркировка"
+        },
+        {
+            "count": 1,
+            "keyword": "одесская область"
+        },
+        {
+            "count": 1,
+            "keyword": "одобрение"
+        },
+        {
+            "count": 1,
+            "keyword": "опасность"
+        },
+        {
+            "count": 1,
+            "keyword": "операции"
+        },
+        {
+            "count": 1,
+            "keyword": "оповещение"
+        },
+        {
+            "count": 1,
+            "keyword": "организация"
+        },
+        {
+            "count": 1,
+            "keyword": "особняк"
+        },
+        {
+            "count": 1,
+            "keyword": "ответ"
+        },
+        {
+            "count": 1,
+            "keyword": "ответственное поведение"
+        },
+        {
+            "count": 1,
+            "keyword": "отечество"
+        },
+        {
+            "count": 1,
+            "keyword": "отказы"
+        },
+        {
+            "count": 1,
+            "keyword": "открытое горение"
+        },
+        {
+            "count": 1,
+            "keyword": "оценка угроз"
+        },
+        {
+            "count": 1,
+            "keyword": "павел булгаков"
+        },
+        {
+            "count": 1,
+            "keyword": "палестинское движение"
+        },
+        {
+            "count": 1,
+            "keyword": "пво"
+        },
+        {
+            "count": 1,
+            "keyword": "пересмотр"
+        },
+        {
+            "count": 1,
+            "keyword": "период"
+        },
+        {
+            "count": 1,
+            "keyword": "петр лещенко"
+        },
+        {
+            "count": 1,
+            "keyword": "питание"
+        },
+        {
+            "count": 1,
+            "keyword": "пищеварение"
+        },
+        {
+            "count": 1,
+            "keyword": "платежи"
+        },
+        {
+            "count": 1,
+            "keyword": "победа"
+        },
+        {
+            "count": 1,
+            "keyword": "повреждения"
+        },
+        {
+            "count": 1,
+            "keyword": "подакцизная продукция"
+        },
+        {
+            "count": 1,
+            "keyword": "поддержка"
+        },
+        {
+            "count": 1,
+            "keyword": "подорожание"
+        },
+        {
+            "count": 1,
+            "keyword": "пожар"
+        },
+        {
+            "count": 1,
+            "keyword": "пожарные машины"
+        },
+        {
+            "count": 1,
+            "keyword": "покровитель"
+        },
+        {
+            "count": 1,
+            "keyword": "полимерная упаковка"
+        },
+        {
+            "count": 1,
+            "keyword": "политика"
+        },
+        {
+            "count": 1,
+            "keyword": "политический заказ"
+        },
+        {
+            "count": 1,
+            "keyword": "понтийский пилат"
+        },
+        {
+            "count": 1,
+            "keyword": "поправки"
+        },
+        {
+            "count": 1,
+            "keyword": "порция"
+        },
+        {
+            "count": 1,
+            "keyword": "потери"
+        },
+        {
+            "count": 1,
+            "keyword": "правительство"
+        },
+        {
+            "count": 1,
+            "keyword": "правоохранительные органы"
+        },
+        {
+            "count": 1,
+            "keyword": "православие"
+        },
+        {
+            "count": 1,
+            "keyword": "предельные нормы"
+        },
+        {
+            "count": 1,
+            "keyword": "президент"
+        },
+        {
+            "count": 1,
+            "keyword": "пресс-конференция"
+        },
+        {
+            "count": 1,
+            "keyword": "принятие"
+        },
+        {
+            "count": 1,
+            "keyword": "проблемы"
+        },
+        {
+            "count": 1,
+            "keyword": "проверки"
+        },
+        {
+            "count": 1,
+            "keyword": "программа eff"
+        },
+        {
+            "count": 1,
+            "keyword": "продукция"
+        },
+        {
+            "count": 1,
+            "keyword": "производители"
+        },
+        {
+            "count": 1,
+            "keyword": "производство"
+        },
+        {
+            "count": 1,
+            "keyword": "происшествие"
+        },
+        {
+            "count": 1,
+            "keyword": "прослеживаемость"
+        },
+        {
+            "count": 1,
+            "keyword": "протест"
+        },
+        {
+            "count": 1,
+            "keyword": "противник"
+        },
+        {
+            "count": 1,
+            "keyword": "протопопово"
+        },
+        {
+            "count": 1,
+            "keyword": "работа"
+        },
+        {
+            "count": 1,
+            "keyword": "разведка"
+        },
+        {
+            "count": 1,
+            "keyword": "разведывательные школы"
+        },
+        {
+            "count": 1,
+            "keyword": "разочарование"
+        },
+        {
+            "count": 1,
+            "keyword": "ракетные комплексы"
+        },
+        {
+            "count": 1,
+            "keyword": "ракетные средства"
+        },
+        {
+            "count": 1,
+            "keyword": "ранения"
+        },
+        {
+            "count": 1,
+            "keyword": "реагирование"
+        },
+        {
+            "count": 1,
+            "keyword": "реакции"
+        },
+        {
+            "count": 1,
+            "keyword": "реконструкция"
+        },
+        {
+            "count": 1,
+            "keyword": "ремонт"
+        },
+        {
+            "count": 1,
+            "keyword": "республиканская партия"
+        },
+        {
+            "count": 1,
+            "keyword": "риск"
+        },
+        {
+            "count": 1,
+            "keyword": "ровненская"
+        },
+        {
+            "count": 1,
+            "keyword": "родители"
+        },
+        {
+            "count": 1,
+            "keyword": "роль"
+        },
+        {
+            "count": 1,
+            "keyword": "российская территория"
+        },
+        {
+            "count": 1,
+            "keyword": "российская федерация"
+        },
+        {
+            "count": 1,
+            "keyword": "российские регионы"
+        },
+        {
+            "count": 1,
+            "keyword": "российские семьи"
+        },
+        {
+            "count": 1,
+            "keyword": "россияне"
+        },
+        {
+            "count": 1,
+            "keyword": "рсчс"
+        },
+        {
+            "count": 1,
+            "keyword": "русская православная церковь"
+        },
+        {
+            "count": 1,
+            "keyword": "русские земли"
+        },
+        {
+            "count": 1,
+            "keyword": "русский воин"
+        },
+        {
+            "count": 1,
+            "keyword": "салливан"
+        },
+        {
+            "count": 1,
+            "keyword": "саммит"
+        },
+        {
+            "count": 1,
+            "keyword": "самооборона"
+        },
+        {
+            "count": 1,
+            "keyword": "санкт-петербург"
+        },
+        {
+            "count": 1,
+            "keyword": "сахар"
+        },
+        {
+            "count": 1,
+            "keyword": "сбитые"
+        },
+        {
+            "count": 1,
+            "keyword": "связь"
+        },
+        {
+            "count": 1,
+            "keyword": "святые"
+        },
+        {
+            "count": 1,
+            "keyword": "священник"
+        },
+        {
+            "count": 1,
+            "keyword": "себестоимость"
+        },
+        {
+            "count": 1,
+            "keyword": "села"
+        },
+        {
+            "count": 1,
+            "keyword": "сергий радонежский"
+        },
+        {
+            "count": 1,
+            "keyword": "сигареты"
+        },
+        {
+            "count": 1,
+            "keyword": "сигнал"
+        },
+        {
+            "count": 1,
+            "keyword": "система маркировки"
+        },
+        {
+            "count": 1,
+            "keyword": "ситуации"
+        },
+        {
+            "count": 1,
+            "keyword": "скандал"
+        },
+        {
+            "count": 1,
+            "keyword": "смерть"
+        },
+        {
+            "count": 1,
+            "keyword": "смерть информация"
+        },
+        {
+            "count": 1,
+            "keyword": "события"
+        },
+        {
+            "count": 1,
+            "keyword": "советник"
+        },
+        {
+            "count": 1,
+            "keyword": "советское государство"
+        },
+        {
+            "count": 1,
+            "keyword": "советы"
+        },
+        {
+            "count": 1,
+            "keyword": "согласие сторон"
+        },
+        {
+            "count": 1,
+            "keyword": "соглашение"
+        },
+        {
+            "count": 1,
+            "keyword": "соки"
+        },
+        {
+            "count": 1,
+            "keyword": "состав"
+        },
+        {
+            "count": 1,
+            "keyword": "социальная инфраструктура"
+        },
+        {
+            "count": 1,
+            "keyword": "социальное страхование"
+        },
+        {
+            "count": 1,
+            "keyword": "социальные сети"
+        },
+        {
+            "count": 1,
+            "keyword": "соцсеть"
+        },
+        {
+            "count": 1,
+            "keyword": "спам"
+        },
+        {
+            "count": 1,
+            "keyword": "спектакль"
+        },
+        {
+            "count": 1,
+            "keyword": "специальная марка"
+        },
+        {
+            "count": 1,
+            "keyword": "спецшкола"
+        },
+        {
+            "count": 1,
+            "keyword": "спфс"
+        },
+        {
+            "count": 1,
+            "keyword": "сроки"
+        },
+        {
+            "count": 1,
+            "keyword": "старые названия"
+        },
+        {
+            "count": 1,
+            "keyword": "статистика"
+        },
+        {
+            "count": 1,
+            "keyword": "статус"
+        },
+        {
+            "count": 1,
+            "keyword": "стекло"
+        },
+        {
+            "count": 1,
+            "keyword": "страны"
+        },
+        {
+            "count": 1,
+            "keyword": "стратегический план"
+        },
+        {
+            "count": 1,
+            "keyword": "сутки"
+        },
+        {
+            "count": 1,
+            "keyword": "табачные изделия"
+        },
+        {
+            "count": 1,
+            "keyword": "тактика"
+        },
+        {
+            "count": 1,
+            "keyword": "таможенные органы"
+        },
+        {
+            "count": 1,
+            "keyword": "тарифы"
+        },
+        {
+            "count": 1,
+            "keyword": "театральное искусство"
+        },
+        {
+            "count": 1,
+            "keyword": "телеканал"
+        },
+        {
+            "count": 1,
+            "keyword": "телефон"
+        },
+        {
+            "count": 1,
+            "keyword": "температура"
+        },
+        {
+            "count": 1,
+            "keyword": "температура воды"
+        },
+        {
+            "count": 1,
+            "keyword": "термины"
+        },
+        {
+            "count": 1,
+            "keyword": "технические ошибки"
+        },
+        {
+            "count": 1,
+            "keyword": "технические решения"
+        },
+        {
+            "count": 1,
+            "keyword": "технология"
+        },
+        {
+            "count": 1,
+            "keyword": "трамп"
+        },
+        {
+            "count": 1,
+            "keyword": "транзакции"
+        },
+        {
+            "count": 1,
+            "keyword": "транш помощи"
+        },
+        {
+            "count": 1,
+            "keyword": "туристы"
+        },
+        {
+            "count": 1,
+            "keyword": "убежища"
+        },
+        {
+            "count": 1,
+            "keyword": "уголовное дело"
+        },
+        {
+            "count": 1,
+            "keyword": "угрозы"
+        },
+        {
+            "count": 1,
+            "keyword": "украинская армия"
+        },
+        {
+            "count": 1,
+            "keyword": "украинские войска"
+        },
+        {
+            "count": 1,
+            "keyword": "укрытие"
+        },
+        {
+            "count": 1,
+            "keyword": "укрытия"
+        },
+        {
+            "count": 1,
+            "keyword": "улыбка"
+        },
+        {
+            "count": 1,
+            "keyword": "упаковка"
+        },
+        {
+            "count": 1,
+            "keyword": "употребление"
+        },
+        {
+            "count": 1,
+            "keyword": "управлением мвд"
+        },
+        {
+            "count": 1,
+            "keyword": "условие"
+        },
+        {
+            "count": 1,
+            "keyword": "услуги"
+        },
+        {
+            "count": 1,
+            "keyword": "участие"
+        },
+        {
+            "count": 1,
+            "keyword": "физическое здоровье"
+        },
+        {
+            "count": 1,
+            "keyword": "финансовая система"
+        },
+        {
+            "count": 1,
+            "keyword": "финансовые издержки"
+        },
+        {
+            "count": 1,
+            "keyword": "фишинговые атаки"
+        },
+        {
+            "count": 1,
+            "keyword": "фсб"
+        },
+        {
+            "count": 1,
+            "keyword": "харьковская гора"
+        },
+        {
+            "count": 1,
+            "keyword": "херсон"
+        },
+        {
+            "count": 1,
+            "keyword": "холод"
+        },
+        {
+            "count": 1,
+            "keyword": "холодная вода"
+        },
+        {
+            "count": 1,
+            "keyword": "храмы"
+        },
+        {
+            "count": 1,
+            "keyword": "цб рф"
+        },
+        {
+            "count": 1,
+            "keyword": "цели"
+        },
+        {
+            "count": 1,
+            "keyword": "целями"
+        },
+        {
+            "count": 1,
+            "keyword": "центр контроля"
+        },
+        {
+            "count": 1,
+            "keyword": "цифровая маркировка"
+        },
+        {
+            "count": 1,
+            "keyword": "черкассы"
+        },
+        {
+            "count": 1,
+            "keyword": "черновицкая"
+        },
+        {
+            "count": 1,
+            "keyword": "чп"
+        },
+        {
+            "count": 1,
+            "keyword": "шарль мишель"
+        },
+        {
+            "count": 1,
+            "keyword": "шебекино"
+        },
+        {
+            "count": 1,
+            "keyword": "шипованные шины"
+        },
+        {
+            "count": 1,
+            "keyword": "штраф"
+        },
+        {
+            "count": 1,
+            "keyword": "экипажи дпс"
+        },
+        {
+            "count": 1,
+            "keyword": "экономическая помощь"
+        },
+        {
+            "count": 1,
+            "keyword": "экономические условия"
+        },
+        {
+            "count": 1,
+            "keyword": "эксплуатация"
+        },
+        {
+            "count": 1,
+            "keyword": "экстренные меры"
+        },
+        {
+            "count": 1,
+            "keyword": "экстренные службы"
+        },
+        {
+            "count": 1,
+            "keyword": "энергосистема"
+        },
+        {
+            "count": 1,
+            "keyword": "эпидемиология"
+        },
+        {
+            "count": 1,
+            "keyword": "ядерное оружие"
+        },
+        {
+            "count": 1,
+            "keyword": "ядерное сдерживание"
+        },
+        {
+            "count": 1,
+            "keyword": "аварийные бригады"
+        },
+        {
+            "count": 1,
+            "keyword": "автомобилисты"
+        },
+        {
+            "count": 1,
+            "keyword": "агент"
+        },
+        {
+            "count": 1,
+            "keyword": "адаптация"
+        },
+        {
+            "count": 1,
+            "keyword": "актер"
+        },
+        {
+            "count": 1,
+            "keyword": "акцизные марки"
+        },
+        {
+            "count": 1,
+            "keyword": "алименты"
+        },
+        {
+            "count": 1,
+            "keyword": "альтернативы"
+        },
+        {
+            "count": 1,
+            "keyword": "американское оружие"
+        },
+        {
+            "count": 1,
+            "keyword": "анналена бербок"
+        },
+        {
+            "count": 1,
+            "keyword": "антивирусная защита"
+        },
+        {
+            "count": 1,
+            "keyword": "армия"
+        },
+        {
+            "count": 1,
+            "keyword": "артист"
+        },
+        {
+            "count": 1,
+            "keyword": "архангельское"
+        },
+        {
+            "count": 1,
+            "keyword": "архивные документы"
+        },
+        {
+            "count": 1,
+            "keyword": "атаки"
+        },
+        {
+            "count": 1,
+            "keyword": "атор"
+        },
+        {
+            "count": 1,
+            "keyword": "аферисты"
+        },
+        {
+            "count": 1,
+            "keyword": "банки"
+        },
+        {
+            "count": 1,
+            "keyword": "банковские карты"
+        },
+        {
+            "count": 1,
+            "keyword": "безалкогольные напитки"
+        },
+        {
+            "count": 1,
+            "keyword": "белгородский район"
+        },
+        {
+            "count": 1,
+            "keyword": "белоусов"
+        },
+        {
+            "count": 1,
+            "keyword": "биографический сериал"
+        },
+        {
+            "count": 1,
+            "keyword": "благословение"
+        },
+        {
+            "count": 1,
+            "keyword": "бобруйск"
+        },
+        {
+            "count": 1,
+            "keyword": "боеприпасы"
+        },
+        {
+            "count": 1,
+            "keyword": "борьба"
+        },
+        {
+            "count": 1,
+            "keyword": "бутылки"
+        },
+        {
+            "count": 1,
+            "keyword": "великой отечественной войны"
+        },
+        {
+            "count": 1,
+            "keyword": "вера"
+        },
+        {
+            "count": 1,
+            "keyword": "взрывчатка"
+        },
+        {
+            "count": 1,
+            "keyword": "винница"
+        },
+        {
+            "count": 1,
+            "keyword": "виртуальные награды"
+        },
+        {
+            "count": 1,
+            "keyword": "власти"
+        },
+        {
+            "count": 1,
+            "keyword": "внии гочс"
+        },
+        {
+            "count": 1,
+            "keyword": "военачальник"
+        },
+        {
+            "count": 1,
+            "keyword": "военное вмешательство"
+        },
+        {
+            "count": 1,
+            "keyword": "военные"
+        },
+        {
+            "count": 1,
+            "keyword": "военные преступления"
+        },
+        {
+            "count": 1,
+            "keyword": "1991 год"
+        },
+        {
+            "count": 1,
+            "keyword": "военный конфликт"
+        },
+        {
+            "count": 1,
+            "keyword": "2"
+        },
+        {
+            "count": 1,
+            "keyword": "2 миллиарда долларов"
+        },
+        {
+            "count": 1,
+            "keyword": "34 года"
+        },
+        {
+            "count": 1,
+            "keyword": "casualties"
+        },
+        {
+            "count": 1,
+            "keyword": "g7"
+        },
+        {
+            "count": 1,
+            "keyword": "hope"
+        },
+        {
+            "count": 1,
+            "keyword": "qr-коды"
+        },
+        {
+            "count": 1,
+            "keyword": "roblox"
+        },
+        {
+            "count": 1,
+            "keyword": "swift"
+        },
+        {
+            "count": 1,
+            "keyword": "telegram"
+        },
+        {
+            "count": 1,
+            "keyword": "абверкоманда-203"
+        },
+        {
+            "count": 1,
+            "keyword": "возгорание"
+        },
+        {
+            "count": 1,
+            "keyword": "вооруженные атаки"
+        },
+        {
+            "count": 1,
+            "keyword": "врач"
+        },
+        {
+            "count": 1,
+            "keyword": "вторичные события"
+        },
+        {
+            "count": 1,
+            "keyword": "выборы"
+        },
+        {
+            "count": 1,
+            "keyword": "вылет"
+        },
+        {
+            "count": 1,
+            "keyword": "высокие скорости"
+        },
+        {
+            "count": 1,
+            "keyword": "выход"
+        },
+        {
+            "count": 1,
+            "keyword": "гарантии безопасности"
+        },
+        {
+            "count": 1,
+            "keyword": "генсек оон"
+        },
+        {
+            "count": 1,
+            "keyword": "георгий мурадов"
+        },
+        {
+            "count": 1,
+            "keyword": "германия"
+        },
+        {
+            "count": 1,
+            "keyword": "гитис"
+        },
+        {
+            "count": 1,
+            "keyword": "гитлеровцы"
+        },
+        {
+            "count": 1,
+            "keyword": "горло"
+        },
+        {
+            "count": 1,
+            "keyword": "горловка"
+        },
+        {
+            "count": 1,
+            "keyword": "городская округа"
+        },
+        {
+            "count": 1,
+            "keyword": "горячая погода"
+        },
+        {
+            "count": 1,
+            "keyword": "госдума"
+        },
+        {
+            "count": 1,
+            "keyword": "гражданская инфраструктура"
+        },
+        {
+            "count": 1,
+            "keyword": "гражданская оборона"
+        },
+        {
+            "count": 1,
+            "keyword": "гражданское население"
+        },
+        {
+            "count": 1,
+            "keyword": "граница"
+        },
+        {
+            "count": 1,
+            "keyword": "грузовики"
+        },
+        {
+            "count": 1,
+            "keyword": "д60 защита"
+        },
+        {
+            "count": 1,
+            "keyword": "дата"
+        },
+        {
+            "count": 1,
+            "keyword": "дата рождения"
+        },
+        {
+            "count": 1,
+            "keyword": "движение"
+        },
+        {
+            "count": 1,
+            "keyword": "дежурные машины"
+        },
+        {
+            "count": 1,
+            "keyword": "действие"
+        },
+        {
+            "count": 1,
+            "keyword": "действия"
+        },
+        {
+            "count": 1,
+            "keyword": "делегаты"
+        },
+        {
+            "count": 1,
+            "keyword": "денежные средства"
+        },
+        {
+            "count": 1,
+            "keyword": "джо байден"
+        },
+        {
+            "count": 1,
+            "keyword": "диета"
+        },
+        {
+            "count": 1,
+            "keyword": "диетолог"
+        },
+        {
+            "count": 1,
+            "keyword": "дмитрий донской"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+<canvas id="myChart" width="400" height="200"></canvas>
+<script>
+    const filter = ['безопасность', 'россия', 'всу', 'конфликт', 'беспилотник', 'взрыв', 'нефтебаза'];
+
+    const labels = [];
+    const dataList = filter.map(() => []);
+
+    window.addEventListener(EVENT.KEYWORDS_DAY_LOADED, function({ detail: { day, list } }) {
+        labels.push(day);
+
+        filter.forEach((word, index) => {
+            const item = list.data.keywords.find(({ keyword }) => keyword === word) || { count: 0 };
+            dataList[index].push({ day, item });
+        });
+    });
+    window.addEventListener(EVENT.KEYWORDS_LOADED, () => {
+        const ctx = document.getElementById('myChart').getContext('2d');
+        const myChart = new Chart(ctx, {
+            type: 'line', // Тип графика
+            data: {
+                labels: labels, // Метки по оси X
+                datasets: dataList.map((data, index) => {
+                    const set = {
+                        label: filter[index],
+                        data: data.map(({ item }) => item.count),
+                        fill: false,
+                        borderColor: `hsl(${index * 60}, 100%, 50%)`,
+                        tension: 0.1
+                    }
+                    return set;
+                }),
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true // Начинать ось Y с нуля
+                    }
+                }
+            }
+        });
+    });
+</script>

@@ -10,6 +10,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <style>
@@ -49,9 +50,17 @@
     </style>
     <script>
         const EVENT = {
+            KEYWORDS_START_LOADING: 'keywords:start:loading',
+            KEYWORDS_DAY_LOADED: 'keywords:day:loaded',
             KEYWORDS_LOADED: 'keywords:loaded',
-            TEMPLATES_LOADED: 'keywords:loaded',
+            TEMPLATES_LOADED: 'templates:loaded',
         };
+        const eventBass = {
+            emit: (name, detail) => {
+                const event = new CustomEvent(name, { detail });
+                window.dispatchEvent(event);
+            }
+        }
     </script>
 </head>
 <body>
@@ -61,8 +70,17 @@
     <div style="width: 500px;">
         <div hx-get="./components/filter-form.html" hx-trigger="load" x-wait="true"></div>
     </div>
-    <div class="loading">Loading...</div>
+    <div class="loading" style="visibility: hidden">Loading...</div>
+    <script>
+        window.addEventListener(EVENT.KEYWORDS_START_LOADING, () => {
+            $('.loading').css('visibility', 'visible');
+        });
+        window.addEventListener(EVENT.KEYWORDS_LOADED, () => {
+            $('.loading').css('visibility', 'hidden');
+        });
+    </script>
     <div hx-get="./components/list-by-day.html" hx-trigger="load"></div>
+    <div hx-get="./components/chart.html" hx-trigger="load"></div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 <script>
@@ -85,11 +103,7 @@
                     data,
                     link: dataForDayUrl
                 };
-            })
-            .catch((error) => {
-                console.error(error);
-                return null;
-            })
+            });
     }
     function isLimit(keyword, index) {
         return keyword.count < MIN_COUNT || index > LIMIT_COUNT;
@@ -103,29 +117,31 @@
         if ($('[x-wait="true"]').length === loadedComponentsCount && loadedComponentsCount !== 0) {
             $('[x-wait="true"]').attr('x-wait', 'false');
             loadedComponentsCount = 0
-            const event = new CustomEvent(EVENT.TEMPLATES_LOADED);
-            window.dispatchEvent(event);
+            eventBass.emit(EVENT.TEMPLATES_LOADED, {});
         }
     });
 
     $(async() => {
         window.addEventListener(EVENT.TEMPLATES_LOADED, async (event) => {
+            eventBass.emit(EVENT.KEYWORDS_START_LOADING, {});
             const searchParams = new URLSearchParams(window.location.search);
             const lastDate = searchParams.has('to') ? moment(searchParams.get('to')) : moment().startOf('day');
             const currentDate = searchParams.has('from') ? moment(searchParams.get('from')) : moment(lastDate).startOf('day').add(-15, 'days');
+
             while (!currentDate.isAfter(lastDate)) {
                 const day = currentDate.format('YYYY-MM-DD');
-                const list = await loadDay(day);
+                try {
+                    const list = await loadDay(day);
 
-                const event = new CustomEvent(EVENT.KEYWORDS_LOADED, { detail: { day, list } });
-                window.dispatchEvent(event);
-
+                    eventBass.emit(EVENT.KEYWORDS_DAY_LOADED, { day, list });
+                } catch (error) {
+                    console.log(day, 'was not loaded');
+                }
                 currentDate.add(1, 'days');
             }
+
+            eventBass.emit(EVENT.KEYWORDS_LOADED, {});
         }, { once: true });
-
-
-        $('.loading').css('visibility', 'hidden');
     });
 </script>
 </body>

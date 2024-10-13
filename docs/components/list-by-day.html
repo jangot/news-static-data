@@ -1,7 +1,7 @@
 <div class="days-container"></div>
 <script>
     const container = $('.days-container');
-    window.addEventListener(EVENT.KEYWORDS_LOADED, function({ detail: { day, list } }) {
+    window.addEventListener(EVENT.KEYWORDS_DAY_LOADED, function({ detail: { day, list } }) {
         if (list) {
             const html = list.data.keywords.map((keyword, index) => {
                 if (isLimit(keyword, index)) {

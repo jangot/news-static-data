@@ -4,11 +4,13 @@
     window.addEventListener(EVENT.KEYWORDS_DAY_LOADED, function({ detail: { day, list } }) {
         if (list) {
             const html = list.data.keywords.map((keyword, index) => {
-                if (isLimit(keyword, index)) {
+                const isImportant = STATE.importantWords.has(keyword.keyword);
+                if (isLimit(keyword, index) && !isImportant) {
                     return '';
                 }
+                const className = isImportant ? 'list-group-item-success' : '';
                 return `
-                        <li class="list-group-item d-flex justify-content-between align-items-start">
+                        <li data-key="${keyword.keyword}" class="${className} list-group-item d-flex justify-content-between align-items-start">
                             <div>
                                 <a class="material-icons" href="https://www.google.com/search?q=${keyword.keyword}+${day}+новости" target="_blank">search</a>
                                 ${keyword.keyword}
@@ -27,5 +29,9 @@
                     </div>
                 `);
         }
+    });
+
+    window.addEventListener(EVENT.KEYWORDS_LOADED, function () {
+
     });
 </script>

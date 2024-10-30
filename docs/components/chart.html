@@ -1,19 +1,14 @@
-<canvas id="myChart" width="400" height="200"></canvas>
+<style>
+    .chart {
+        width: 600px;
+        margin: 10px auto;
+    }
+</style>
+<div class="content chart">
+    <canvas id="myChart" width="400" height="200"></canvas>
+</div>
 <script>
-    const filter = ['безопасность', 'россия', 'всу', 'конфликт', 'беспилотник', 'взрыв', 'нефтебаза'];
-
-    const labels = [];
-    const dataList = filter.map(() => []);
-
-    window.addEventListener(EVENT.KEYWORDS_DAY_LOADED, function({ detail: { day, list } }) {
-        labels.push(day);
-
-        filter.forEach((word, index) => {
-            const item = list.data.keywords.find(({ keyword }) => keyword === word) || { count: 0 };
-            dataList[index].push({ day, item });
-        });
-    });
-    window.addEventListener(EVENT.KEYWORDS_LOADED, () => {
+    function drowChart(labels, dataList, filter) {
         const ctx = document.getElementById('myChart').getContext('2d');
         const myChart = new Chart(ctx, {
             type: 'line', // Тип графика
@@ -39,5 +34,28 @@
                 }
             }
         });
+    }
+
+    const rowData = {};
+    window.addEventListener(EVENT.KEYWORDS_DAY_LOADED, function({ detail: { day, list } }) {
+        rowData[day] = list.data.keywords;
+    });
+
+    window.addEventListener(EVENT.KEYWORDS_LOADED, () => {
+        const filter = [...STATE.importantWords];
+        if (filter.length === 0) {
+            return;
+        }
+
+        const dataList = filter.map(() => []);
+        const labels = Object.keys(rowData).sort();
+        for (const day of labels) {
+            const keywords = rowData[day];
+            filter.forEach((word, index) => {
+                const item = keywords.find(({ keyword }) => keyword === word) || { count: 0 };
+                dataList[index].push({ day, item });
+            });
+        }
+        drowChart(labels, dataList, filter);
     });
 </script>

@@ -62,6 +62,15 @@
         }
     </style>
     <script>
+        const UTILS = {
+            importantToUrl: (importants) => {
+                return importants.replace(/, ?/g, '|').replace(' ', '_');
+            },
+            utlToImportant: (importants) => {
+                return importants.replace('_', ' ').split('|');
+            }
+        }
+
         const EVENT = {
             KEYWORDS_START_LOADING: 'keywords:start:loading',
             KEYWORDS_DAY_LOADED: 'keywords:day:loaded',
@@ -74,16 +83,21 @@
                 window.dispatchEvent(event);
             }
         }
+
+        const searchParams = new URLSearchParams(window.location.search);
+        const important = searchParams.has('important') ? UTILS.utlToImportant(searchParams.get('important')) : ['безопасность', 'россия', 'всу', 'конфликт', 'беспилотник', 'взрыв', 'нефтебаза'];
+
         const STATE = {
-            importantWords: new Set(['безопасность', 'россия', 'всу', 'конфликт', 'беспилотник', 'взрыв', 'нефтебаза']),
+            importantWords: new Set(important),
         }
+
     </script>
 </head>
 <body>
 
 <h1>News Keywords</h1>
 <div class="content">
-    <div style="width: 500px;">
+    <div>
         <div hx-get="./components/filter-form.html" hx-trigger="load" x-wait="true"></div>
     </div>
     <div class="loading" style="visibility: hidden">Loading...</div>

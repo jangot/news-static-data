@@ -1,10 +1,27 @@
-<div class="input-group mb-3">
-    <span class="input-group-text">From</span>
-    <input type="date" class="form-control" id="date-start" aria-describedby="startDate">
-    <span class="input-group-text">To</span>
-    <input type="date" class="form-control" id="date-end" aria-describedby="endDate">
-    <button type="button" class="btn btn-primary" id="apply-filter">Show</button>
+<div class="container">
+    <div class="row align-items-start">
+        <div class="col">
+            <div class="input-group mb-3">
+                <span class="input-group-text">From</span>
+                <input type="date" class="form-control" id="date-start" aria-describedby="startDate">
+
+                <span class="input-group-text">To</span>
+                <input type="date" class="form-control" id="date-end" aria-describedby="endDate">
+            </div>
+        </div>
+        <div class="col">
+            <div class="input-group mb-3">
+                <span class="input-group-text">Important</span>
+                <input type="text" class="form-control" id="important" aria-describedby="important">
+            </div>
+        </div>
+        <div class="col">
+            <button type="button" class="btn btn-primary" id="apply-filter">Show</button>
+        </div>
+    </div>
 </div>
+
+
 <script>
     $(() => {
         const currentState = new URLSearchParams(window.location.search);
@@ -14,11 +31,14 @@
         if (currentState.has('to')) {
             $('#date-end').val(currentState.get('to'));
         }
+        $('#important').val([...STATE.importantWords].join(', '));
 
         $('#apply-filter').click(() => {
             const start = $('#date-start').val();
             const end = $('#date-end').val();
-            if (!start && !end) {
+            const important = UTILS.importantToUrl($('#important').val())
+
+            if (!start && !end && !important) {
                 return;
             }
 
@@ -28,6 +48,9 @@
             }
             if (end) {
                 search.set('to', end);
+            }
+            if (important) {
+                search.set('important', important);
             }
 
             window.location.href = window.location.pathname + '?' + search.toString();

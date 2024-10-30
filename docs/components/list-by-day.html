@@ -20,11 +20,13 @@
                         `;
             });
             container.append(`
-                    <div class="day-item">
+                    <div class="day-item" data-day="${day}">
                         <h3>
                             ${day}
                             <a class="material-icons" href="${list.link}" target="_blank">description</a>
+                            <span class="material-icons explosions">grade</span>
                         </h3>
+                        <h4 class="explosions"><a class="material-icons" href="${list.link}" target="_blank">grade</a></h4>
                         <ul class="list-group">${html.join('')}</ul>
                     </div>
                 `);
@@ -32,6 +34,19 @@
     });
 
     window.addEventListener(EVENT.KEYWORDS_LOADED, function () {
-
+        const url = 'https://raw.githubusercontent.com/jangot/news-static-data/main/data/outer/explosions.json';
+        fetch(url)
+            .then((response) => {
+                if (!response.ok) {
+                    throw new Error(`File explosions was not loaded: ${ response.statusText}`);
+                }
+                return response.json();
+            })
+            .then((data) => {
+                data.forEach(({ date, description}) => {
+                    $(`[data-day="${date}"] .explosions`).css('visibility', 'visible');
+                    $(`[data-day="${date}"] h4`).html(description);
+                });
+            });
     });
 </script>

@@ -45,7 +45,7 @@
             .then((data) => {
                 data.forEach(({ date, description}) => {
                     const dayEl = $(`[data-day="${date}"]`);
-                    console.log(date, dayEl.length)
+
                     dayEl.find('.explosions-description').html(description);
                     dayEl.find('.explosions').css('visibility', 'visible');
                 });

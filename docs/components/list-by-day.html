@@ -26,8 +26,8 @@
                             <a class="material-icons" href="${list.link}" target="_blank">description</a>
                             <span class="material-icons explosions">grade</span>
                         </h3>
-                        <h4 class="explosions"><a class="material-icons" href="${list.link}" target="_blank">grade</a></h4>
                         <ul class="list-group">${html.join('')}</ul>
+                        <div class="explosions explosions-description"></div>
                     </div>
                 `);
         }
@@ -44,8 +44,10 @@
             })
             .then((data) => {
                 data.forEach(({ date, description}) => {
-                    $(`[data-day="${date}"] .explosions`).css('visibility', 'visible');
-                    $(`[data-day="${date}"] h4`).html(description);
+                    const dayEl = $(`[data-day="${date}"]`);
+                    console.log(date, dayEl.length)
+                    dayEl.find('.explosions-description').html(description);
+                    dayEl.find('.explosions').css('visibility', 'visible');
                 });
             });
     });

@@ -139,7 +139,7 @@
             });
     }
     function isLimit(keyword, index) {
-        return keyword.count < MIN_COUNT || index > LIMIT_COUNT;
+        return index > LIMIT_COUNT;
     }
 
     let loadedComponentsCount = 0;

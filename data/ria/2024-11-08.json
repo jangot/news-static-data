@@ -1,0 +1,732 @@
+{
+    "keywords": [
+        {
+            "count": 4,
+            "keyword": "безопасность"
+        },
+        {
+            "count": 3,
+            "keyword": "помощь"
+        },
+        {
+            "count": 2,
+            "keyword": "предупреждение"
+        },
+        {
+            "count": 2,
+            "keyword": "губернатор"
+        },
+        {
+            "count": 2,
+            "keyword": "пво"
+        },
+        {
+            "count": 2,
+            "keyword": "израиль"
+        },
+        {
+            "count": 2,
+            "keyword": "украина"
+        },
+        {
+            "count": 2,
+            "keyword": "бпла"
+        },
+        {
+            "count": 2,
+            "keyword": "информация"
+        },
+        {
+            "count": 2,
+            "keyword": "конфликт"
+        },
+        {
+            "count": 2,
+            "keyword": "telegram"
+        },
+        {
+            "count": 2,
+            "keyword": "путин"
+        },
+        {
+            "count": 2,
+            "keyword": "россия"
+        },
+        {
+            "count": 1,
+            "keyword": "президента"
+        },
+        {
+            "count": 1,
+            "keyword": "кабинета"
+        },
+        {
+            "count": 1,
+            "keyword": "визит"
+        },
+        {
+            "count": 1,
+            "keyword": "новогодние спектакли"
+        },
+        {
+            "count": 1,
+            "keyword": "ключевые слова: великобритания"
+        },
+        {
+            "count": 1,
+            "keyword": "встреча"
+        },
+        {
+            "count": 1,
+            "keyword": "выборы"
+        },
+        {
+            "count": 1,
+            "keyword": "помощь жертвам"
+        },
+        {
+            "count": 1,
+            "keyword": "федеральный перечень"
+        },
+        {
+            "count": 1,
+            "keyword": "орден"
+        },
+        {
+            "count": 1,
+            "keyword": "андрей дуда"
+        },
+        {
+            "count": 1,
+            "keyword": "сми"
+        },
+        {
+            "count": 1,
+            "keyword": "критерии"
+        },
+        {
+            "count": 1,
+            "keyword": "оценка"
+        },
+        {
+            "count": 1,
+            "keyword": "риск"
+        },
+        {
+            "count": 1,
+            "keyword": "карелия"
+        },
+        {
+            "count": 1,
+            "keyword": "учебное пособие"
+        },
+        {
+            "count": 1,
+            "keyword": "билеты"
+        },
+        {
+            "count": 1,
+            "keyword": "черный дым"
+        },
+        {
+            "count": 1,
+            "keyword": "тела"
+        },
+        {
+            "count": 1,
+            "keyword": "алексей смирнов"
+        },
+        {
+            "count": 1,
+            "keyword": "террористическая атака"
+        },
+        {
+            "count": 1,
+            "keyword": "общественно-политический деятель"
+        },
+        {
+            "count": 1,
+            "keyword": "разочарование"
+        },
+        {
+            "count": 1,
+            "keyword": "авиаудары"
+        },
+        {
+            "count": 1,
+            "keyword": "миграция"
+        },
+        {
+            "count": 1,
+            "keyword": "минпросвещения"
+        },
+        {
+            "count": 1,
+            "keyword": "военные действия"
+        },
+        {
+            "count": 1,
+            "keyword": "происшествие"
+        },
+        {
+            "count": 1,
+            "keyword": "кварталы"
+        },
+        {
+            "count": 1,
+            "keyword": "хадат"
+        },
+        {
+            "count": 1,
+            "keyword": "ограничения"
+        },
+        {
+            "count": 1,
+            "keyword": "ллойд остин"
+        },
+        {
+            "count": 1,
+            "keyword": "ситуация"
+        },
+        {
+            "count": 1,
+            "keyword": "брянская область"
+        },
+        {
+            "count": 1,
+            "keyword": "барнаул"
+        },
+        {
+            "count": 1,
+            "keyword": "маккаби"
+        },
+        {
+            "count": 1,
+            "keyword": "попытка"
+        },
+        {
+            "count": 1,
+            "keyword": "новую программу"
+        },
+        {
+            "count": 1,
+            "keyword": "разрушений"
+        },
+        {
+            "count": 1,
+            "keyword": "история"
+        },
+        {
+            "count": 1,
+            "keyword": "сроки"
+        },
+        {
+            "count": 1,
+            "keyword": "диплом"
+        },
+        {
+            "count": 1,
+            "keyword": "захарченко"
+        },
+        {
+            "count": 1,
+            "keyword": "лейбористы"
+        },
+        {
+            "count": 1,
+            "keyword": "трамп"
+        },
+        {
+            "count": 1,
+            "keyword": "касса"
+        },
+        {
+            "count": 1,
+            "keyword": "онлайн-продажа"
+        },
+        {
+            "count": 1,
+            "keyword": "государственный университет"
+        },
+        {
+            "count": 1,
+            "keyword": "уничтожение"
+        },
+        {
+            "count": 1,
+            "keyword": "трагедия"
+        },
+        {
+            "count": 1,
+            "keyword": "сеансы"
+        },
+        {
+            "count": 1,
+            "keyword": "пострадавших"
+        },
+        {
+            "count": 1,
+            "keyword": "запуск"
+        },
+        {
+            "count": 1,
+            "keyword": "погибшие"
+        },
+        {
+            "count": 1,
+            "keyword": "деятельность"
+        },
+        {
+            "count": 1,
+            "keyword": "реагирование"
+        },
+        {
+            "count": 1,
+            "keyword": "пятые-девятые классы"
+        },
+        {
+            "count": 1,
+            "keyword": "резиденция"
+        },
+        {
+            "count": 1,
+            "keyword": "театр"
+        },
+        {
+            "count": 1,
+            "keyword": "экстренные службы"
+        },
+        {
+            "count": 1,
+            "keyword": "ажиотаж"
+        },
+        {
+            "count": 1,
+            "keyword": "европа"
+        },
+        {
+            "count": 1,
+            "keyword": "отзывы"
+        },
+        {
+            "count": 1,
+            "keyword": "положительные оценки"
+        },
+        {
+            "count": 1,
+            "keyword": "пожар"
+        },
+        {
+            "count": 1,
+            "keyword": "территория"
+        },
+        {
+            "count": 1,
+            "keyword": "бдительность"
+        },
+        {
+            "count": 1,
+            "keyword": "система"
+        },
+        {
+            "count": 1,
+            "keyword": "постройки"
+        },
+        {
+            "count": 1,
+            "keyword": "сотрудничество"
+        },
+        {
+            "count": 1,
+            "keyword": "кир стармер"
+        },
+        {
+            "count": 1,
+            "keyword": "атака"
+        },
+        {
+            "count": 1,
+            "keyword": "министерство культуры"
+        },
+        {
+            "count": 1,
+            "keyword": "инаугурация"
+        },
+        {
+            "count": 1,
+            "keyword": "видеозапись"
+        },
+        {
+            "count": 1,
+            "keyword": "ликвидация"
+        },
+        {
+            "count": 1,
+            "keyword": "антисемитские беспорядки"
+        },
+        {
+            "count": 1,
+            "keyword": "отношения"
+        },
+        {
+            "count": 1,
+            "keyword": "американо-израильские"
+        },
+        {
+            "count": 1,
+            "keyword": "протест"
+        },
+        {
+            "count": 1,
+            "keyword": "пентагон"
+        },
+        {
+            "count": 1,
+            "keyword": "премьер-министр"
+        },
+        {
+            "count": 1,
+            "keyword": "амстердам"
+        },
+        {
+            "count": 1,
+            "keyword": "президентские выборы"
+        },
+        {
+            "count": 1,
+            "keyword": "готовность"
+        },
+        {
+            "count": 1,
+            "keyword": "акция"
+        },
+        {
+            "count": 1,
+            "keyword": "частный дом"
+        },
+        {
+            "count": 1,
+            "keyword": "опасность"
+        },
+        {
+            "count": 1,
+            "keyword": "нападения"
+        },
+        {
+            "count": 1,
+            "keyword": "зрители"
+        },
+        {
+            "count": 1,
+            "keyword": "участие"
+        },
+        {
+            "count": 1,
+            "keyword": "приказ"
+        },
+        {
+            "count": 1,
+            "keyword": "announcement"
+        },
+        {
+            "count": 1,
+            "keyword": "возмущение"
+        },
+        {
+            "count": 1,
+            "keyword": "образовательные организации"
+        },
+        {
+            "count": 1,
+            "keyword": "безопасности"
+        },
+        {
+            "count": 1,
+            "keyword": "награды"
+        },
+        {
+            "count": 1,
+            "keyword": "ключевые слова: учебники"
+        },
+        {
+            "count": 1,
+            "keyword": "удары"
+        },
+        {
+            "count": 1,
+            "keyword": "данные"
+        },
+        {
+            "count": 1,
+            "keyword": "самооборона"
+        },
+        {
+            "count": 1,
+            "keyword": "правительство"
+        },
+        {
+            "count": 1,
+            "keyword": "международные отношения"
+        },
+        {
+            "count": 1,
+            "keyword": "министр обороны"
+        },
+        {
+            "count": 1,
+            "keyword": "апробация"
+        },
+        {
+            "count": 1,
+            "keyword": "специализированная техника"
+        },
+        {
+            "count": 1,
+            "keyword": "победа"
+        },
+        {
+            "count": 1,
+            "keyword": "социальные сети"
+        },
+        {
+            "count": 1,
+            "keyword": "продажи"
+        },
+        {
+            "count": 1,
+            "keyword": "сейчас"
+        },
+        {
+            "count": 1,
+            "keyword": "официальные источники"
+        },
+        {
+            "count": 1,
+            "keyword": "правозащита"
+        },
+        {
+            "count": 1,
+            "keyword": "мвд"
+        },
+        {
+            "count": 1,
+            "keyword": "сообщения"
+        },
+        {
+            "count": 1,
+            "keyword": "рекомендуемые меры"
+        },
+        {
+            "count": 1,
+            "keyword": "очередь"
+        },
+        {
+            "count": 1,
+            "keyword": "storm shadow"
+        },
+        {
+            "count": 1,
+            "keyword": "жилой дом"
+        },
+        {
+            "count": 1,
+            "keyword": "дети"
+        },
+        {
+            "count": 1,
+            "keyword": "событие"
+        },
+        {
+            "count": 1,
+            "keyword": "запасы"
+        },
+        {
+            "count": 1,
+            "keyword": "александр богомаз"
+        },
+        {
+            "count": 1,
+            "keyword": "беспилотники"
+        },
+        {
+            "count": 1,
+            "keyword": "ливан"
+        },
+        {
+            "count": 1,
+            "keyword": "россии"
+        },
+        {
+            "count": 1,
+            "keyword": "правозащитник"
+        },
+        {
+            "count": 1,
+            "keyword": "йохан бекман"
+        },
+        {
+            "count": 1,
+            "keyword": "режим"
+        },
+        {
+            "count": 1,
+            "keyword": "школа"
+        },
+        {
+            "count": 1,
+            "keyword": "нетаньяху"
+        },
+        {
+            "count": 1,
+            "keyword": "футбольный клуб"
+        },
+        {
+            "count": 1,
+            "keyword": "исраэль кац"
+        },
+        {
+            "count": 1,
+            "keyword": "венгрия"
+        },
+        {
+            "count": 1,
+            "keyword": "спрос"
+        },
+        {
+            "count": 1,
+            "keyword": "информационная сводка"
+        },
+        {
+            "count": 1,
+            "keyword": "угрозы"
+        },
+        {
+            "count": 1,
+            "keyword": "обнаружение"
+        },
+        {
+            "count": 1,
+            "keyword": "дополнительные сеансы"
+        },
+        {
+            "count": 1,
+            "keyword": "мар-а-лаго"
+        },
+        {
+            "count": 1,
+            "keyword": "ключевые слова: курская область"
+        },
+        {
+            "count": 1,
+            "keyword": "ключевые слова: калуга"
+        },
+        {
+            "count": 1,
+            "keyword": "переговоры"
+        },
+        {
+            "count": 1,
+            "keyword": "силы пво"
+        },
+        {
+            "count": 1,
+            "keyword": "средства"
+        },
+        {
+            "count": 1,
+            "keyword": "ввс"
+        },
+        {
+            "count": 1,
+            "keyword": "внутренние дела"
+        },
+        {
+            "count": 1,
+            "keyword": "демократия"
+        },
+        {
+            "count": 1,
+            "keyword": "ключевые слова: финский"
+        },
+        {
+            "count": 1,
+            "keyword": "спасатели"
+        },
+        {
+            "count": 1,
+            "keyword": "днр"
+        },
+        {
+            "count": 1,
+            "keyword": "бейрут"
+        },
+        {
+            "count": 1,
+            "keyword": "нато"
+        },
+        {
+            "count": 1,
+            "keyword": "вооружение"
+        },
+        {
+            "count": 1,
+            "keyword": "контроль"
+        },
+        {
+            "count": 1,
+            "keyword": "научно-методический совет"
+        },
+        {
+            "count": 1,
+            "keyword": "политическая активность"
+        },
+        {
+            "count": 1,
+            "keyword": "мчс"
+        },
+        {
+            "count": 1,
+            "keyword": "польша"
+        },
+        {
+            "count": 1,
+            "keyword": "отчеты"
+        },
+        {
+            "count": 1,
+            "keyword": "разногласия"
+        },
+        {
+            "count": 1,
+            "keyword": "щелкунчик"
+        },
+        {
+            "count": 1,
+            "keyword": "публицист"
+        },
+        {
+            "count": 1,
+            "keyword": "российский паспорт"
+        },
+        {
+            "count": 1,
+            "keyword": "работа"
+        },
+        {
+            "count": 1,
+            "keyword": "лига европы"
+        },
+        {
+            "count": 1,
+            "keyword": "министерство обороны"
+        },
+        {
+            "count": 1,
+            "keyword": "ракеты"
+        },
+        {
+            "count": 1,
+            "keyword": "гражданство"
+        }
+    ]
+}
